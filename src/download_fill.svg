@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="50px" viewBox="0 0 38 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>download_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="download-fill" transform="translate(0.000000, 1.000000)" fill="#000000">
+            <path d="M19.085257,31 L18.9142136,31 L18.9997353,31.0855217 L19.085257,31 Z M20,30.085257 L20,10 L18,10 L18,30.0857864 L11.9142136,24 L10.5,25.4142136 L18.9852814,33.8994949 L18.9997353,33.885041 L19.0141891,33.8994949 L27.4994705,25.4142136 L26.085257,24 L20,30.085257 Z M0,10 L38,10 L38,48 L0,48 L0,10 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle-4" x="18" y="0" width="2" height="10"></rect>
+        </g>
+    </g>
+</svg>

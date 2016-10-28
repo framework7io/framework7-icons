@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="49px" viewBox="0 0 50 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>alarm_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alarm_fill" fill="#000000">
+            <path d="M25,48 C37.1502645,48 47,38.1502645 47,26 C47,13.8497355 37.1502645,4 25,4 C12.8497355,4 3,13.8497355 3,26 C3,38.1502645 12.8497355,48 25,48 Z M25,29 L26,29 L26,11 L24,11 L24,27 L14,27 L14,29 L25,29 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle-117" transform="translate(6.950406, 44.662289) rotate(-45.000000) translate(-6.950406, -44.662289) " x="2.86259528" y="43.1622885" width="8.17562152" height="3"></rect>
+            <rect id="Rectangle-117" transform="translate(42.648201, 44.662289) scale(-1, 1) rotate(-45.000000) translate(-42.648201, -44.662289) " x="38.56039" y="43.1622885" width="8.17562152" height="3"></rect>
+            <path d="M2.89377273,2.36804714 C8.75510988,-2.96005893 15.8782361,2.36804714 15.8782361,2.36804714 L1.88885194,15.0050503 C1.88885194,15.0050503 -2.96756442,7.69615322 2.89377273,2.36804714 Z" id="Triangle"></path>
+            <path d="M36.8937727,2.36804714 C42.7551099,-2.96005893 49.8782361,2.36804714 49.8782361,2.36804714 L35.8888519,15.0050503 C35.8888519,15.0050503 31.0324356,7.69615322 36.8937727,2.36804714 Z" id="Triangle-Copy" transform="translate(41.939118, 7.502525) scale(-1, 1) translate(-41.939118, -7.502525) "></path>
+        </g>
+    </g>
+</svg>

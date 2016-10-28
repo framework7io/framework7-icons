@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="47px" viewBox="0 0 24 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>mic_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mic_fill" transform="translate(0.000000, -4.000000)">
+            <path d="M23,21 L23,30.0053704 C23,36.0775367 18.076468,41 12,41 L12,41 C5.92486775,41 1,36.0818343 1,30.0053704 L1,21" id="Rectangle-111" stroke="#000000" stroke-width="2"></path>
+            <path d="M12,4 C16.418278,4 20,7.57433394 20,11.9929714 L20,30.0070286 C20,34.4214248 16.4092877,38 12,38 C7.581722,38 4,34.4256661 4,30.0070286 L4,11.9929714 C4,7.57857521 7.59071231,4 12,4 Z" id="Combined-Shape" fill="#000000"></path>
+            <rect id="Rectangle-109" fill="#000000" x="11" y="42" width="2" height="7"></rect>
+            <rect id="Rectangle-110" fill="#000000" x="4" y="49" width="16" height="2"></rect>
+        </g>
+    </g>
+</svg>

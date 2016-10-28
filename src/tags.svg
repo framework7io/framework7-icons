@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="45px" viewBox="0 0 47 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>tags</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tags" transform="translate(-0.067496, -8.000000)" fill="#000000">
+            <polygon id="Rectangle-99" points="18.4678871 50.7999083 43.6671058 25.5 44.6671058 11 46.5176918 12 45.4678871 26.9000244 20.0674965 52.3498961"></polygon>
+            <g id="Group-13" transform="translate(26.000000, 25.500000) rotate(-315.000000) translate(-26.000000, -25.500000) translate(15.000000, 1.000000)">
+                <path d="M1.48129425,13.5437884 L2,12.2 L2,49 L4.68958206e-13,47 L22,47 L20,49 L20,12.2 L20.5105318,13.5347226 L9.71649609,1.48924417 L9.85590441,1.33557063 L12.2709146,1.34294045 L12.4093824,1.49746198 L1.48129425,13.5437884 Z M11.0674965,-5.15143483e-13 L22,12.2 L22,49 L4.68958206e-13,49 L4.68958206e-13,12.2 L11.0674965,-5.15143483e-13 Z" id="Rectangle-87"></path>
+                <circle id="Oval-54" cx="11" cy="15" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

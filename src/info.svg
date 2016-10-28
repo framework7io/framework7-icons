@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="50px" viewBox="0 0 44 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>info</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info" transform="translate(0.000000, 3.000000)" fill="#000000">
+            <path d="M42,22 C42,10.954305 33.045695,2 22,2 C10.954305,2 2,10.954305 2,22 C2,33.045695 10.954305,42 22,42 C33.045695,42 42,33.045695 42,22 Z M0,22 C0,9.8497355 9.8497355,0 22,0 C34.1502645,0 44,9.8497355 44,22 C44,34.1502645 34.1502645,44 22,44 C9.8497355,44 0,34.1502645 0,22 Z" id="Oval-34"></path>
+            <circle id="Oval-35" cx="22" cy="12" r="3"></circle>
+            <path d="M20,17 L24,17 L24,33 L20,33 L20,17 L20,17 Z M18,33 L26,33 L26,34 L18,34 L18,33 L18,33 Z M18,17 L20,17 L20,18 L18,18 L18,17 L18,17 Z" id="Rectangle-26"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="50px" viewBox="0 0 57 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>email_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="email-fill" transform="translate(0.000000, 7.000000)" fill="#000000">
+            <polygon id="Triangle-9" points="0 36 0 0 18 18"></polygon>
+            <polygon id="Triangle-9-Copy" transform="translate(48.000000, 18.000000) scale(-1, 1) translate(-48.000000, -18.000000) " points="39 36 39 0 57 18"></polygon>
+            <polygon id="Triangle-9-Copy-2" transform="translate(28.500000, 13.000000) scale(-1, 1) rotate(-270.000000) translate(-28.500000, -13.000000) " points="15.5 39 15.5 -13 41.5 13.0502314"></polygon>
+            <polygon id="Triangle-9-Copy-2" transform="translate(28.500000, 27.660840) scale(-1, -1) rotate(-270.000000) translate(-28.500000, -27.660840) " points="20.1608404 53.6608404 20.1608404 1.66084043 36.8391596 18.3713817 27.841457 27.6608404 36.8145626 37.0392929"></polygon>
+        </g>
+    </g>
+</svg>

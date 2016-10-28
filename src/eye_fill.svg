@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="34px" viewBox="0 0 64 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>eye_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eye_fill" fill="#000000">
+            <path d="M32,34 C50,34 64,17 64,17 C64,17 49,0 32,0 C15,1.10600914e-15 0,18 0,18 C0,18 14,34 32,34 Z M40,17 C40,12.581722 36.418278,9 32,9 C27.581722,9 24,12.581722 24,17 C24,21.418278 27.581722,25 32,25 C36.418278,25 40,21.418278 40,17 Z M22,17 C22,11.4771525 26.4771525,7 32,7 C37.5228475,7 42,11.4771525 42,17 C42,22.5228475 37.5228475,27 32,27 C26.4771525,27 22,22.5228475 22,17 Z M32,21 C34.209139,21 36,19.209139 36,17 C36,14.790861 34.209139,13 32,13 C29.790861,13 28,14.790861 28,17 C28,19.209139 29.790861,21 32,21 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

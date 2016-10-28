@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="50px" viewBox="0 0 40 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>box</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box" transform="translate(0.000000, 6.000000)">
+            <rect id="Rectangle-33" stroke="#000000" stroke-width="2" x="3" y="11" width="34" height="26"></rect>
+            <rect id="Rectangle-35" stroke="#000000" stroke-width="2" x="1" y="1" width="38" height="10"></rect>
+            <path d="M14.4919239,21 L25.5080761,21 C26.3295891,21 27,20.3283716 27,19.5 C27,18.6727684 26.3293046,18 25.5080761,18 L14.4919239,18 C13.6704109,18 13,18.6716284 13,19.5 C13,20.3272316 13.6706954,21 14.4919239,21 Z M14.4919239,16 L25.5080761,16 C27.4366124,16 29,17.5709366 29,19.5 C29,21.4329966 27.4341063,23 25.5080761,23 L14.4919239,23 C12.5633876,23 11,21.4290634 11,19.5 C11,17.5670034 12.5658937,16 14.4919239,16 Z" id="Rectangle-34" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

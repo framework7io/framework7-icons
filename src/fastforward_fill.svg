@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>fastforward_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fastforward-fill" transform="translate(0.000000, 10.000000)" fill="#000000">
+            <path d="M3.46160542,28.6940781 C1.54981354,29.8110473 0,28.9251189 0,26.7196287 L0,3.28091349 C0,1.07348601 1.54286423,0.185434747 3.46160542,1.30646408 L23.4381658,12.9778195 C25.3499577,14.0947887 25.356907,15.9016934 23.4381658,17.0227227 L3.46160542,28.6940781 Z" id="Triangle-5"></path>
+            <path d="M28.3214687,28.6940781 C26.4096768,29.8110473 24.8598633,28.9251189 24.8598633,26.7196287 L24.8598633,3.28091349 C24.8598633,1.07348601 26.4027275,0.185434747 28.3214687,1.30646408 L48.2980291,12.9778195 C50.209821,14.0947887 50.2167703,15.9016934 48.2980291,17.0227227 L28.3214687,28.6940781 Z" id="Triangle-5"></path>
+        </g>
+    </g>
+</svg>

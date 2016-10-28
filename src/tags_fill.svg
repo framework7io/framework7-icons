@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="45px" viewBox="0 0 47 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>tags_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tags_fill" transform="translate(-0.067496, -8.000000)" fill="#000000">
+            <polygon id="Rectangle-99" points="18.4678871 50.7999083 43.6671058 25.5 44.6671058 11 46.5176918 12 45.4678871 26.9000244 20.0674965 52.3498961"></polygon>
+            <g id="Group-13" transform="translate(26.000000, 25.500000) rotate(-315.000000) translate(-26.000000, -25.500000) translate(15.000000, 1.000000)">
+                <path d="M4.61852778e-13,12.2 L11.0674965,-5.18696197e-13 L22,12.2 L22,49 L4.61852778e-13,49 L4.61852778e-13,12.2 Z M11,18 C12.6568542,18 14,16.6568542 14,15 C14,13.3431458 12.6568542,12 11,12 C9.34314575,12 8,13.3431458 8,15 C8,16.6568542 9.34314575,18 11,18 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

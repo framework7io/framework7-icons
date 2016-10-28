@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>reply_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reply-fill" transform="translate(0.000000, 5.000000)" fill="#000000">
+            <path d="M24,0 L24,11.0897767 C24,11.0897767 36.1780424,10.2939388 43.3549941,17.4062352 C47.6613087,21.6737553 49.5722595,30.4359247 49.2991045,35.8731035 C48.9554332,42.7139185 46.034953,31.7877425 39.611326,27.4521557 C33.187699,23.1165689 24,23.1165689 24,23.1165689 L24,34 L0,17 L24,0 Z" id="Triangle-4"></path>
+        </g>
+    </g>
+</svg>

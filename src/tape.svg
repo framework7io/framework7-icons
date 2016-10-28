@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="50px" viewBox="0 0 62 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>tape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tape" transform="translate(0.000000, 11.000000)" fill="#000000">
+            <path d="M26,14 C26,7.372583 20.627417,2 14,2 C7.372583,2 2,7.372583 2,14 C2,20.627417 7.372583,26 14,26 C20.627417,26 26,20.627417 26,14 Z M0,14 C0,6.2680135 6.2680135,0 14,0 C21.7319865,0 28,6.2680135 28,14 C28,21.7319865 21.7319865,28 14,28 C6.2680135,28 0,21.7319865 0,14 Z" id="Oval-21"></path>
+            <path d="M60,14 C60,7.372583 54.627417,2 48,2 C41.372583,2 36,7.372583 36,14 C36,20.627417 41.372583,26 48,26 C54.627417,26 60,20.627417 60,14 Z M34,14 C34,6.2680135 40.2680135,0 48,0 C55.7319865,0 62,6.2680135 62,14 C62,21.7319865 55.7319865,28 48,28 C40.2680135,28 34,21.7319865 34,14 Z" id="Oval-21-Copy"></path>
+            <rect id="Rectangle-59" x="14" y="26" width="34" height="2"></rect>
+        </g>
+    </g>
+</svg>

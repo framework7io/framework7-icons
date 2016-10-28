@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="50px" viewBox="0 0 58 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>photos</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="photos" transform="translate(0.000000, 2.000000)" fill="#000000">
+            <path d="M9,44 L9,10 L56,10 L56,44 L9,44 L9,44 Z M7,45 L7,8 L8,8 L57,8 L58,8 L58,46 L57,46 L7,46 L7,45 L7,45 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle-25" x="0" y="36" width="5" height="2"></rect>
+            <polygon id="Combined-Shape" points="48 2 2 2 2 38 0 38 0 0 1 0 49 0 50 0 50 6 48 6 48 2"></polygon>
+        </g>
+    </g>
+</svg>

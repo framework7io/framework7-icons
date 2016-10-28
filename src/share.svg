@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="50px" viewBox="0 0 38 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>share</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="share" transform="translate(0.000000, -2.000000)" fill="#000000">
+            <polygon id="Combined-Shape" points="2 52 2 18 14 18 14 16 1 16 0 16 0 53 0 54 38 54 38 53 38 17 38 16 24 16 24 18 36 18 36 52 2 52"></polygon>
+            <rect id="Rectangle-4" x="18" y="3" width="2" height="32"></rect>
+            <rect id="Rectangle-5" transform="translate(15.449747, 5.639513) rotate(-45.000000) translate(-15.449747, -5.639513) " x="9.44974747" y="4.63951298" width="12" height="2"></rect>
+            <rect id="Rectangle-6" transform="translate(22.549723, 5.639513) rotate(-315.000000) translate(-22.549723, -5.639513) " x="16.5497231" y="4.63951298" width="12" height="2"></rect>
+        </g>
+    </g>
+</svg>

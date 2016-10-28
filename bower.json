@@ -1,0 +1,29 @@
+{
+    "ignore": [
+        "**/.*",
+        "build",
+        "node_modules",
+        "bower_components"
+    ],
+    "version": "1.0.0",
+    "name": "framework7-icons",
+    "license": "MIT",
+    "authors": [
+        "Vladimir Kharlampidi <nolimits4web@gmail.com>"
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "framework7",
+        "web font",
+        "ios",
+        "ios icons"
+    ],
+    "main": [
+        "css/framework7-icons.css",
+        "fonts/*"
+    ],
+    "homepage": "https://framework7.io",
+    "description": "The premium iOS-icons icon font for Framework7"
+}

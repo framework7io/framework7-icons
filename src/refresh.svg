@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="50px" viewBox="0 0 38 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>refresh</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="refresh" transform="translate(1.000000, 3.000000)">
+            <path d="M18,8 C8.0588745,8 0,16.0588745 0,26 C0,35.9411255 8.0588745,44 18,44 L18,44 C27.9411255,44 36,35.9411255 36,26" id="Oval-45" stroke="#000000" stroke-width="2"></path>
+            <polygon id="Triangle-6" fill="#000000" transform="translate(23.500000, 8.500000) scale(-1, 1) translate(-23.500000, -8.500000) " points="29 0 29 17 18 8.5"></polygon>
+        </g>
+    </g>
+</svg>

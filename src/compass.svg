@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>compass</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compass" fill="#000000">
+            <path d="M48,25 C48,12.2974508 37.7025492,2 25,2 C12.2974508,2 2,12.2974508 2,25 C2,37.7025492 12.2974508,48 25,48 C37.7025492,48 48,37.7025492 48,25 Z M0,25 C0,11.1928813 11.1928813,0 25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 Z" id="Oval-12"></path>
+            <polygon id="Triangle-7" transform="translate(32.545942, 18.056674) rotate(-315.000000) translate(-32.545942, -18.056674) " points="36.5459415 27.5566736 28.5459415 27.5566736 32.5459415 8.55667359"></polygon>
+            <path d="M28.6760185,27.6068665 L23.0191643,21.9500122 L10.998349,39.6276817 L28.6760185,27.6068665 Z M26.3500977,27.4000244 L23.25,24.2999878 L16.6000977,34 L26.3500977,27.4000244 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

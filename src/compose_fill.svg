@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="50px" viewBox="0 0 46 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>compose_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compose-fill" fill="#000000">
+            <path d="M0,10 L38,10 L38,48 L0,48 L0,10 L0,10 Z M24.1398147,31.1578517 L14.6591026,32.790527 L16.6775491,23.4300034 L16.6340163,23.3826715 L29.8446251,10 L38,10 L38,16.9843013 L24.1720666,31.1949101 L24.1398147,31.1578517 L24.1398147,31.1578517 L24.1398147,31.1578517 Z" id="Combined-Shape"></path>
+            <polygon id="Combined-Shape" points="23.4608611 29.9323921 16.3598478 31.1040111 17.8322864 24.2755925 17.8000488 24.2433549 36.1848251 5.85857861 39.1631233 8.83687674 39.1490108 8.85098918 41.8536566 11.555635 23.4688803 29.9404113"></polygon>
+            <rect id="Rectangle-24" transform="translate(42.000000, 5.500000) rotate(-315.000000) translate(-42.000000, -5.500000) " x="38" y="3" width="8" height="5"></rect>
+        </g>
+    </g>
+</svg>

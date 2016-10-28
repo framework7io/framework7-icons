@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>time</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="time" fill="#000000">
+            <path d="M48,25 C48,12.2974508 37.7025492,2 25,2 C12.2974508,2 2,12.2974508 2,25 C2,37.7025492 12.2974508,48 25,48 C37.7025492,48 48,37.7025492 48,25 Z M0,25 C0,11.1928813 11.1928813,0 25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 Z" id="Oval-38"></path>
+            <polygon id="Rectangle-42" points="25 28 26 28 26 8 24 8 24 26 12 26 12 28"></polygon>
+        </g>
+    </g>
+</svg>
