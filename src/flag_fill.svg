@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="34px" height="50px" viewBox="0 0 34 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>!!!flag_fill</title>
+    <title>flag_fill</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="!!!flag_fill" fill="#000000">
+        <g id="flag_fill" transform="translate(0.000000, 5.000000)" fill="#000000">
             <path d="M8.4834136,21.6692954 C11.9495475,21.9581399 15.4256636,24.1913821 23.9256636,24.1913821 C32.4256636,24.1913821 34,23 34,23 L34,1 C34,1 28.9628318,3 23.9256636,3 C18.8884954,3 13.5304937,1.65007216 8.4834136,1 C3.43633351,0.349927838 -4.54747351e-13,1 -4.54747351e-13,1 L-4.54747351e-13,12.5 L1.00974196e-28,40 L2,40 L2,22.4454246 C3.77758034,22.0073816 6.40844068,21.496381 8.4834136,21.6692954 Z" id="Combined-Shape"></path>
         </g>
     </g>

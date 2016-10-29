@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="70px" height="59px" viewBox="0 0 70 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="70px" height="50px" viewBox="0 0 70 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
     <title>cloud_download</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="cloud_download">
+        <g id="cloud_download" transform="translate(0.000000, -5.000000)">
             <path d="M30.1428571,43 L13.6285714,43 C6.65400402,43 1,38 1,30.5909091 C1,25 5,21 10.0999756,19.2999878 C10,19 9.79225231,18.3838682 9.80004883,18.1818182 C10,13 13.6177884,10 18.4857143,10 C21,10 23.9000244,12.2000122 23.9000244,12.2000122 C23.9000244,12.2000122 24.5,11 24.9000244,10.2000122 C28,4.47296172 33.3683946,1 39.8571429,1 C49.5142362,1 57.1999512,8.69256203 57,18.1818182 C57,19 56.9000244,20.7999878 56.9000244,20.7999878 L56.9000244,20.7999878 L59.1671735,21.1500244 C65,21.7999878 68.5,26 69,31.5454545 C69,38.5 64.1999512,43 57.3428571,43 L39.8571429,43" id="Path" stroke="#000000" stroke-width="2"></path>
             <g id="Group-15" transform="translate(26.000000, 19.400024)" fill="#000000">
                 <rect id="Rectangle-4" x="8.04836995" y="0.599975586" width="2" height="36.4743066"></rect>

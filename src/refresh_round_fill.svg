@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>refresh_round_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="refresh_round_fill" fill="#000000">
+            <path d="M25,50 C38.8071187,50 50,38.8071187 50,25 C50,11.1928813 38.8071187,0 25,0 C11.1928813,0 0,11.1928813 0,25 C0,38.8071187 11.1928813,50 25,50 Z M10,25 C10,33.2842712 16.7157288,40 25,40 C33.2842712,40 40,33.2842712 40,25 L38,25 C38,32.1797017 32.1797017,38 25,38 C17.8202983,38 12,32.1797017 12,25 C12,17.8202983 17.8202983,12 25,12 L25,10 C16.7157288,10 10,16.7157288 10,25 Z M25,4 L25,17.9090909 L34,10.9545455 L25,4 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

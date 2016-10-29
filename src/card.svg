@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>card</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card" transform="translate(0.000000, 7.000000)" fill="#000000">
+            <path d="M0,3.99017859 C0,1.7864638 1.79426827,0 4.00718972,0 L45.9928103,0 C48.2059201,0 50,1.7852456 50,3.99017859 L50,32.0098214 C50,34.2135362 48.2057317,36 45.9928103,36 L4.00718972,36 C1.79407995,36 0,34.2147544 0,32.0098214 L0,3.99017859 Z M2,4.00174332 C2,2.89621101 2.89824172,2 4.0061411,2 L45.9938589,2 C47.10182,2 48,2.88926172 48,4.00174332 L48,31.9982567 C48,33.103789 47.1017583,34 45.9938589,34 L4.0061411,34 C2.89817996,34 2,33.1107383 2,31.9982567 L2,4.00174332 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle-103" x="2" y="9" width="46" height="8"></rect>
+            <rect id="Rectangle-104-Copy-4" x="6" y="21" width="30" height="2"></rect>
+            <rect id="Rectangle-104-Copy-5" x="6" y="27" width="20" height="2"></rect>
+        </g>
+    </g>
+</svg>

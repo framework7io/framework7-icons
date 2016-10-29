@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="sort-fill" transform="translate(0.000000, 3.000000)" fill="#000000">
+        <g id="sort_fill" transform="translate(0.000000, 3.000000)" fill="#000000">
             <path d="M22,44 C34.1502645,44 44,34.1502645 44,22 C44,9.8497355 34.1502645,0 22,0 C9.8497355,0 0,9.8497355 0,22 C0,34.1502645 9.8497355,44 22,44 Z M8,14 L36,14 L36,16 L8,16 L8,14 Z M12,22 L32,22 L32,24 L12,24 L12,22 Z M16,30 L28,30 L28,32 L16,32 L16,30 Z" id="Combined-Shape"></path>
         </g>
     </g>

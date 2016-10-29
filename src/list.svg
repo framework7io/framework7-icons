@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="50px" viewBox="0 0 46 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>list</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="list" transform="translate(0.000000, 2.000000)" fill="#000000">
+            <path d="M2,44 L2,2 L44,2 L44,44 L2,44 L2,44 Z M0,45 L0,0 L1,0 L45,0 L46,0 L46,46 L45,46 L0,46 L0,45 L0,45 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle-43" x="18" y="10" width="22" height="2"></rect>
+            <rect id="Rectangle-43-Copy" x="18" y="22" width="22" height="2"></rect>
+            <rect id="Rectangle-43-Copy-2" x="18" y="34" width="22" height="2"></rect>
+            <circle id="Oval-58" cx="10" cy="11" r="2"></circle>
+            <circle id="Oval-58-Copy" cx="10" cy="23" r="2"></circle>
+            <circle id="Oval-58-Copy-2" cx="10" cy="35" r="2"></circle>
+        </g>
+    </g>
+</svg>

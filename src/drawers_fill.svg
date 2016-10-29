@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="50px" viewBox="0 0 44 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>drawers_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="drawers_fill" fill="#000000">
+            <path d="M0,31 L0,50 L44,50 L44,30 L36.4645556,30 L44,30 L44,32 L28.9291111,32 C28.4438815,35.3922941 25.5264719,38 22,38 C18.4735281,38 15.5561185,35.3922941 15.0708889,32 L0,32 L0,31 Z" id="Combined-Shape"></path>
+            <path d="M0,11 L0,30 L44,30 L44,10 L36.4645556,10 L44,10 L44,12 L28.9291111,12 C28.4438815,15.3922941 25.5264719,18 22,18 C18.4735281,18 15.5561185,15.3922941 15.0708889,12 L0,12 L0,11 Z" id="Combined-Shape"></path>
+            <polygon id="Rectangle-60-Copy" points="0 10 7.01961616 0 36.6555638 0 44 10"></polygon>
+        </g>
+    </g>
+</svg>

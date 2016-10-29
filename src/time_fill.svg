@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="time-fill" fill="#000000">
+        <g id="time_fill" fill="#000000">
             <path d="M25,50 C38.8071187,50 50,38.8071187 50,25 C50,11.1928813 38.8071187,0 25,0 C11.1928813,0 0,11.1928813 0,25 C0,38.8071187 11.1928813,50 25,50 L25,50 Z M25,28 L26,28 L26,8 L24,8 L24,26 L12,26 L12,28 L25,28 L25,28 Z" id="Oval-38"></path>
         </g>
     </g>

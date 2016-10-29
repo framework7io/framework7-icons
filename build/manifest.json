@@ -5,6 +5,12 @@
       "name": "add"
     },
     {
+      "name": "add_round"
+    },
+    {
+      "name": "add_round_fill"
+    },
+    {
       "name": "alarm"
     },
     {
@@ -20,25 +26,25 @@
       "name": "arrow_down"
     },
     {
-      "name": "arrow_down_circle"
+      "name": "arrow_down_fill"
     },
     {
       "name": "arrow_left"
     },
     {
-      "name": "arrow_left_circle"
+      "name": "arrow_left_fill"
     },
     {
       "name": "arrow_right"
     },
     {
-      "name": "arrow_right_circle"
+      "name": "arrow_right_fill"
     },
     {
       "name": "arrow_up"
     },
     {
-      "name": "arrow_up_circle"
+      "name": "arrow_up_fill"
     },
     {
       "name": "at"
@@ -65,13 +71,13 @@
       "name": "bolt"
     },
     {
-      "name": "bolt_circle"
-    },
-    {
-      "name": "bolt_circle_fill"
-    },
-    {
       "name": "bolt_fill"
+    },
+    {
+      "name": "bolt_round"
+    },
+    {
+      "name": "bolt_round_fill"
     },
     {
       "name": "book"
@@ -101,6 +107,15 @@
       "name": "camera"
     },
     {
+      "name": "camera_fill"
+    },
+    {
+      "name": "card"
+    },
+    {
+      "name": "card_fill"
+    },
+    {
       "name": "chat"
     },
     {
@@ -114,6 +129,12 @@
     },
     {
       "name": "check"
+    },
+    {
+      "name": "check_round"
+    },
+    {
+      "name": "check_round_fill"
     },
     {
       "name": "chevron_down"
@@ -135,6 +156,15 @@
     },
     {
       "name": "circle_half"
+    },
+    {
+      "name": "close"
+    },
+    {
+      "name": "close_round"
+    },
+    {
+      "name": "close_round_fill"
     },
     {
       "name": "cloud"
@@ -182,7 +212,10 @@
       "name": "delete"
     },
     {
-      "name": "delete_fill"
+      "name": "delete_round"
+    },
+    {
+      "name": "delete_round_fill"
     },
     {
       "name": "document"
@@ -203,13 +236,25 @@
       "name": "download"
     },
     {
-      "name": "download_circle"
-    },
-    {
-      "name": "download_circle_fill"
-    },
-    {
       "name": "download_fill"
+    },
+    {
+      "name": "download_round"
+    },
+    {
+      "name": "download_round_fill"
+    },
+    {
+      "name": "drawer"
+    },
+    {
+      "name": "drawer_fill"
+    },
+    {
+      "name": "drawers"
+    },
+    {
+      "name": "drawers_fill"
     },
     {
       "name": "email"
@@ -227,13 +272,13 @@
       "name": "fastforward"
     },
     {
-      "name": "fastforward_circle"
-    },
-    {
-      "name": "fastforward_circle_fill"
-    },
-    {
       "name": "fastforward_fill"
+    },
+    {
+      "name": "fastforward_round"
+    },
+    {
+      "name": "fastforward_round_fill"
     },
     {
       "name": "favorites"
@@ -246,6 +291,12 @@
     },
     {
       "name": "film_fill"
+    },
+    {
+      "name": "filter"
+    },
+    {
+      "name": "filter-fill"
     },
     {
       "name": "flag"
@@ -272,10 +323,10 @@
       "name": "gear_fill"
     },
     {
-      "name": "graph_circle"
+      "name": "graph_round"
     },
     {
-      "name": "graph_circle_fill"
+      "name": "graph_round_fill"
     },
     {
       "name": "graph_square"
@@ -329,6 +380,12 @@
       "name": "left"
     },
     {
+      "name": "list"
+    },
+    {
+      "name": "list_fill"
+    },
+    {
       "name": "lock"
     },
     {
@@ -347,28 +404,13 @@
       "name": "logout_fill"
     },
     {
-      "name": "mailbox"
-    },
-    {
-      "name": "mailbox_fill"
-    },
-    {
-      "name": "mailboxes"
-    },
-    {
-      "name": "mailboxes_fill"
+      "name": "menu"
     },
     {
       "name": "mic"
     },
     {
       "name": "mic_fill"
-    },
-    {
-      "name": "minus"
-    },
-    {
-      "name": "minus_fill"
     },
     {
       "name": "money_dollar"
@@ -404,13 +446,19 @@
       "name": "more"
     },
     {
-      "name": "more_circle"
+      "name": "more_round"
     },
     {
-      "name": "more_circle_fill"
+      "name": "more_round_fill"
     },
     {
       "name": "more_vertical"
+    },
+    {
+      "name": "more_vertical_round"
+    },
+    {
+      "name": "more_vertical_round_fill"
     },
     {
       "name": "navigation"
@@ -428,13 +476,13 @@
       "name": "pause"
     },
     {
-      "name": "pause_circle"
-    },
-    {
-      "name": "pause_circle_fill"
-    },
-    {
       "name": "pause_fill"
+    },
+    {
+      "name": "pause_round"
+    },
+    {
+      "name": "pause_round_fill"
     },
     {
       "name": "person"
@@ -452,13 +500,13 @@
       "name": "phone"
     },
     {
-      "name": "phone_circle"
-    },
-    {
-      "name": "phone_circle_fill"
-    },
-    {
       "name": "phone_fill"
+    },
+    {
+      "name": "phone_round"
+    },
+    {
+      "name": "phone_round_fill"
     },
     {
       "name": "photos"
@@ -482,19 +530,13 @@
       "name": "play"
     },
     {
-      "name": "play_circle"
-    },
-    {
-      "name": "play_circle_fill"
-    },
-    {
       "name": "play_fill"
     },
     {
-      "name": "plus"
+      "name": "play_round"
     },
     {
-      "name": "plus_fill"
+      "name": "play_round_fill"
     },
     {
       "name": "radio"
@@ -506,10 +548,19 @@
       "name": "refresh"
     },
     {
-      "name": "refresh_circle"
+      "name": "refresh_round"
     },
     {
-      "name": "refresh_circle_fill"
+      "name": "refresh_round_fill"
+    },
+    {
+      "name": "reload"
+    },
+    {
+      "name": "reload_round"
+    },
+    {
+      "name": "reload_round_fill"
     },
     {
       "name": "reply"
@@ -521,13 +572,13 @@
       "name": "rewind"
     },
     {
-      "name": "rewind_circle"
-    },
-    {
-      "name": "rewind_circle_fill"
-    },
-    {
       "name": "rewind_fill"
+    },
+    {
+      "name": "rewind_round"
+    },
+    {
+      "name": "rewind_round_fill"
     },
     {
       "name": "right"
@@ -536,7 +587,7 @@
       "name": "search"
     },
     {
-      "name": "search_fill"
+      "name": "search_strong"
     },
     {
       "name": "settings"
@@ -555,12 +606,6 @@
     },
     {
       "name": "sort_fill"
-    },
-    {
-      "name": "square_fill"
-    },
-    {
-      "name": "square_half"
     },
     {
       "name": "star"
@@ -647,13 +692,13 @@
       "name": "videocam"
     },
     {
-      "name": "videocam_circle"
-    },
-    {
-      "name": "videocam_circle_fill"
-    },
-    {
       "name": "videocam_fill"
+    },
+    {
+      "name": "videocam_round"
+    },
+    {
+      "name": "videocam_round_fill"
     },
     {
       "name": "volume"

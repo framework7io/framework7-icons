@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>download_round_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="download_round_fill" fill="#000000">
+            <path d="M21,37.085257 L21,17 L19,17 L19,37.0857864 L12.9142136,31 L11.5,32.4142136 L19.9852814,40.8994949 L19.9997353,40.885041 L20.0141891,40.8994949 L28.4994705,32.4142136 L27.085257,31 L21,37.085257 L21,37.085257 Z M25,50 C38.8071187,50 50,38.8071187 50,25 C50,11.1928813 38.8071187,0 25,0 C11.1928813,0 0,11.1928813 0,25 C0,38.8071187 11.1928813,50 25,50 L25,50 Z M21,17 C21,13.6862915 23.6862915,11 27,11 C30.3137085,11 33,13.6862915 33,17 C33,20.3137085 30.3137085,23 27,23 L27,25 C31.418278,25 35,21.418278 35,17 C35,12.581722 31.418278,9 27,9 C22.581722,9 19,12.581722 19,17 L21,17 L21,17 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

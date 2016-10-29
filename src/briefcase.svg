@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
     <title>briefcase</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="briefcase" transform="translate(0.932504, 0.000000)" fill="#000000">
+        <g id="briefcase" fill="#000000">
             <path d="M0,16.0053221 C0,13.240959 2.24553095,11 5.00003191,11 L44.9999681,11 C47.7614095,11 50,13.2362844 50,16.0053221 L50,45.9946779 C50,48.759041 47.754469,51 44.9999681,51 L5.00003191,51 C2.23859054,51 0,48.7637156 0,45.9946779 L0,16.0053221 Z M2.06749647,16.0074199 C2.06749647,14.3464677 3.41927701,13 5.06794063,13 L45.0670523,13 C46.7241519,13 48.0674965,14.3455393 48.0674965,16.0074199 L48.0674965,45.9925801 C48.0674965,47.6535323 46.7157159,49 45.0670523,49 L5.06794063,49 C3.41084108,49 2.06749647,47.6544607 2.06749647,45.9925801 L2.06749647,16.0074199 Z" id="Combined-Shape"></path>
             <path d="M21.1260175,27 L2.06749647,27 L2.06749647,29 L21.1260175,29 C21.043753,28.6803801 21,28.3452996 21,28 C21,27.6547004 21.043753,27.3196199 21.1260175,27 Z M28.8739825,27 L48.0674965,27 L48.0674965,29 L28.8739825,29 C28.956247,28.6803801 29,28.3452996 29,28 C29,27.6547004 28.956247,27.3196199 28.8739825,27 Z" id="Combined-Shape"></path>
             <circle id="Oval-55" cx="25" cy="28" r="4"></circle>

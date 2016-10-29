@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>refresh_round</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="refresh_round">
+            <path d="M48,25 C48,12.2974508 37.7025492,2 25,2 C12.2974508,2 2,12.2974508 2,25 C2,37.7025492 12.2974508,48 25,48 C37.7025492,48 48,37.7025492 48,25 Z M0,25 C0,11.1928813 11.1928813,0 25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 Z" id="Oval-44" fill="#000000"></path>
+            <path d="M25,11 C17.2680135,11 11,17.2680135 11,25 C11,32.7319865 17.2680135,39 25,39 L25,39 C32.7319865,39 39,32.7319865 39,25" id="Oval-45" stroke="#000000" stroke-width="2"></path>
+            <polygon id="Triangle-6" fill="#000000" transform="translate(29.500000, 10.954545) scale(-1, 1) translate(-29.500000, -10.954545) " points="34 4 34 17.9090909 25 10.9545455"></polygon>
+        </g>
+    </g>
+</svg>

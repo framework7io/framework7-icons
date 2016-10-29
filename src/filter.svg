@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="50px" viewBox="0 0 42 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filter" transform="translate(0.000000, 9.000000)" fill="#000000">
+            <g id="Group-14">
+                <rect id="Rectangle-104" x="38" y="3" width="4" height="2"></rect>
+                <rect id="Rectangle-105" x="0" y="3" width="26" height="2"></rect>
+                <path d="M34,4 C34,2.8954305 33.1045695,2 32,2 C30.8954305,2 30,2.8954305 30,4 C30,5.1045695 30.8954305,6 32,6 C33.1045695,6 34,5.1045695 34,4 Z M28,4 C28,1.790861 29.790861,0 32,0 C34.209139,0 36,1.790861 36,4 C36,6.209139 34.209139,8 32,8 C29.790861,8 28,6.209139 28,4 Z" id="Oval-56"></path>
+            </g>
+            <g id="Group-14-Copy-2" transform="translate(0.000000, 24.000000)">
+                <rect id="Rectangle-104" x="38" y="3" width="4" height="2"></rect>
+                <rect id="Rectangle-105" x="0" y="3" width="26" height="2"></rect>
+                <path d="M34,4 C34,2.8954305 33.1045695,2 32,2 C30.8954305,2 30,2.8954305 30,4 C30,5.1045695 30.8954305,6 32,6 C33.1045695,6 34,5.1045695 34,4 Z M28,4 C28,1.790861 29.790861,0 32,0 C34.209139,0 36,1.790861 36,4 C36,6.209139 34.209139,8 32,8 C29.790861,8 28,6.209139 28,4 Z" id="Oval-56"></path>
+            </g>
+            <g id="Group-14-Copy" transform="translate(0.000000, 12.000000)">
+                <rect id="Rectangle-104" x="18" y="3" width="24" height="2"></rect>
+                <rect id="Rectangle-105" x="0" y="3" width="6" height="2"></rect>
+                <path d="M14,4 C14,2.8954305 13.1045695,2 12,2 C10.8954305,2 10,2.8954305 10,4 C10,5.1045695 10.8954305,6 12,6 C13.1045695,6 14,5.1045695 14,4 Z M8,4 C8,1.790861 9.790861,0 12,0 C14.209139,0 16,1.790861 16,4 C16,6.209139 14.209139,8 12,8 C9.790861,8 8,6.209139 8,4 Z" id="Oval-56"></path>
+            </g>
+        </g>
+    </g>
+</svg>

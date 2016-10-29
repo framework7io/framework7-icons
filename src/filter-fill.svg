@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="50px" viewBox="0 0 42 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>filter-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filter-fill" transform="translate(0.000000, 9.000000)" fill="#000000">
+            <g id="Group-14">
+                <rect id="Rectangle-104" x="38" y="3" width="4" height="2"></rect>
+                <rect id="Rectangle-105" x="0" y="3" width="26" height="2"></rect>
+                <circle id="Oval-56" cx="32" cy="4" r="4"></circle>
+            </g>
+            <g id="Group-14-Copy-2" transform="translate(0.000000, 24.000000)">
+                <rect id="Rectangle-104" x="38" y="3" width="4" height="2"></rect>
+                <rect id="Rectangle-105" x="0" y="3" width="26" height="2"></rect>
+                <circle id="Oval-56" cx="32" cy="4" r="4"></circle>
+            </g>
+            <g id="Group-14-Copy" transform="translate(0.000000, 12.000000)">
+                <rect id="Rectangle-104" x="18" y="3" width="24" height="2"></rect>
+                <rect id="Rectangle-105" x="0" y="3" width="6" height="2"></rect>
+                <circle id="Oval-56" cx="12" cy="4" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
