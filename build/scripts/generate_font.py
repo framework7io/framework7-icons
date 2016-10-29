@@ -17,6 +17,7 @@ BLANK_PATH = os.path.join(SCRIPT_PATH, '..', 'blank.svg')
 INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'src')
 OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, '..', 'manifest.json')
+PACKAGE_PATH = os.path.join(SCRIPT_PATH, '..', '..', 'package.json')
 BUILD_DATA_PATH = os.path.join(SCRIPT_PATH, '..', 'build_data.json')
 AUTO_WIDTH = True
 KERNING = 15
@@ -43,6 +44,10 @@ for char in "0123456789abcdefghijklmnopqrstuvwzxyz_- ":
 manifest_file = open(MANIFEST_PATH, 'r')
 manifest_data = json.loads(manifest_file.read())
 manifest_file.close()
+
+package_file = open(PACKAGE_PATH, 'r')
+package = json.loads(package_file.read())
+package_file.close()
 
 build_data = copy.deepcopy(manifest_data)
 build_data['icons'] = []

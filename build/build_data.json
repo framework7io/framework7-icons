@@ -1,5 +1,4 @@
 {
-  "version": "1.0.0",
   "name": "Framework7 Icons",
   "icons": [
     {
@@ -211,6 +210,9 @@
     },
     {
       "name": "download_fill"
+    },
+    {
+      "name": "email"
     },
     {
       "name": "email_fill"

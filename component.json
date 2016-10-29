@@ -1,13 +1,21 @@
 {
     "repo": "nolimits4web/framework7-icons",
     "development": {},
-    "version": "1.0.0",
+    "version": "0.9.0",
     "styles": [
         "css/framework7-icons.css"
     ],
-    "name": "Framework7 Icons",
+    "name": "framework7-icons",
     "dependencies": {},
-    "keywords": [],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "framework7",
+        "web font",
+        "ios",
+        "ios icons"
+    ],
     "license": "MIT",
     "fonts": [
         "fonts/Framework7Icons-Regular.eot",
@@ -16,5 +24,5 @@
         "fonts/Framework7Icons-Regular.woff",
         "fonts/Framework7Icons-Regular.woff2"
     ],
-    "description": "The premium iOS-icons icon font for Framework7"
+    "description": "Free iOS-icons font for Framework7"
 }

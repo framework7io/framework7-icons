@@ -3,9 +3,11 @@
         "**/.*",
         "build",
         "node_modules",
-        "bower_components"
+        "bower_components",
+        "src",
+        "sketch"
     ],
-    "version": "1.0.0",
+    "version": "0.9.0",
     "name": "framework7-icons",
     "license": "MIT",
     "authors": [
@@ -24,6 +26,6 @@
         "css/framework7-icons.css",
         "fonts/*"
     ],
-    "homepage": "https://framework7.io",
-    "description": "The premium iOS-icons icon font for Framework7"
+    "homepage": "http://framework7.io/",
+    "description": "Free iOS-icons font for Framework7"
 }

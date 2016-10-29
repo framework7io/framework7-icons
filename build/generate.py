@@ -15,11 +15,12 @@ def main():
   generate_font_files()
 
   data = get_build_data()
+  package = get_package()
 
-  generate_cheatsheet(data)
-  generate_component_json(data)
-  generate_composer_json(data)
-  generate_bower_json(data)
+  generate_cheatsheet(data, package)
+  generate_component_json(package)
+  generate_composer_json(package)
+  generate_bower_json(package)
 
 
 def generate_font_files():
@@ -28,7 +29,7 @@ def generate_font_files():
   call(cmd, shell=True)
 
 
-def generate_cheatsheet(data):
+def generate_cheatsheet(data, package):
   print "Generate Cheatsheet"
 
   cheatsheet_file_path = os.path.join(ROOT_PATH, 'cheatsheet.html')
@@ -53,7 +54,7 @@ def generate_cheatsheet(data):
     content.append(item_row)
 
   template_html = template_html.replace("{{font_name}}", data["name"])
-  template_html = template_html.replace("{{font_version}}", data["version"])
+  template_html = template_html.replace("{{font_version}}", package["version"])
   template_html = template_html.replace("{{icon_count}}", str(len(data["icons"])) )
   template_html = template_html.replace("{{content}}", '\n'.join(content) )
 
@@ -61,19 +62,19 @@ def generate_cheatsheet(data):
   f.write(template_html)
   f.close()
 
-def generate_component_json(data):
+def generate_component_json(package):
   print "Generate component.json"
   cssFileName = 'framework7-icons'
   fontFileName = 'Framework7Icons-Regular';
   d = {
-    "name": data['name'],
+    "name": package['name'],
     "repo": "nolimits4web/framework7-icons",
-    "description": "The premium iOS-icons icon font for Framework7",
-    "version": data['version'],
-    "keywords": [],
+    "description": package['description'],
+    "version": package['version'],
+    "keywords": package['keywords'],
     "dependencies": {},
     "development": {},
-    "license": "MIT",
+    "license": package['license'],
     "styles": [
       "css/%s.css" % (cssFileName)
     ],
@@ -93,15 +94,15 @@ def generate_component_json(data):
   f.close()
 
 
-def generate_composer_json(data):
+def generate_composer_json(package):
   print "Generate composer.json"
   cssFileName = 'framework7-icons'
   fontFileName = 'Framework7Icons-Regular';
   d = {
     "name": "nolimits4web/framework7-icons",
-    "description": "The premium iOS-icons icon font for Framework7",
-    "keywords": [ "fonts", "icon font", "icons", "framework7", "web font", "ios", "ios icons"],
-    "homepage": "http://framework7.io/",
+    "description": package['description'],
+    "keywords": package['keywords'],
+    "homepage": package['homepage'],
     "authors": [
       {
         "name": "Vladimir Kharalmpidi",
@@ -111,7 +112,7 @@ def generate_composer_json(data):
       }
     ],
     "extra": {},
-    "license": [ "MIT" ]
+    "license": [ package['license'] ]
   }
   txt = json.dumps(d, indent=4, separators=(',', ': '))
 
@@ -121,29 +122,31 @@ def generate_composer_json(data):
   f.close()
 
 
-def generate_bower_json(data):
+def generate_bower_json(package):
   print "Generate bower.json"
   cssFileName = 'framework7-icons'
   fontFileName = 'Framework7Icons-Regular';
   d = {
-    "name": data['name'].replace(' ', '-').lower(),
-    "version": data['version'],
-    "homepage": "https://framework7.io",
+    "name": package['name'],
+    "version": package['version'],
+    "homepage": package['homepage'],
     "authors": [
       "Vladimir Kharlampidi <nolimits4web@gmail.com>"
     ],
-    "description": "The premium iOS-icons icon font for Framework7",
+    "description": package['description'],
     "main": [
       "css/%s.css" % (cssFileName),
       "fonts/*"
     ],
-    "keywords": [ "fonts", "icon font", "icons", "framework7", "web font", "ios", "ios icons"],
-    "license": "MIT",
+    "keywords": package['keywords'],
+    "license": package['license'],
     "ignore": [
       "**/.*",
       "build",
       "node_modules",
-      "bower_components"
+      "bower_components",
+      "src",
+      "sketch"
     ]
   }
   txt = json.dumps(d, indent=4, separators=(',', ': '))
@@ -160,6 +163,13 @@ def get_build_data():
   data = json.loads(f.read())
   f.close()
   return data
+
+def get_package():
+  package_path = os.path.join(ROOT_PATH, 'package.json')
+  f = open(package_path, 'r')
+  package = json.loads(f.read())
+  f.close()
+  return package
 
 
 if __name__ == "__main__":
