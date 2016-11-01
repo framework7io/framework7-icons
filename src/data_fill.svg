@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="44px" height="50px" viewBox="0 0 44 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
     <title>data_fill</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="data_fill" transform="translate(0.000000, 3.000000)" fill="#000000">
-            <rect id="Rectangle-15" x="0" y="0" width="20" height="20" rx="4"></rect>
-            <rect id="Rectangle-15" x="24" y="0" width="20" height="20" rx="4"></rect>
-            <rect id="Rectangle-15" x="24" y="24" width="20" height="20" rx="4"></rect>
-            <rect id="Rectangle-15" x="0" y="24" width="20" height="20" rx="4"></rect>
+        <g id="data_fill" fill="#000000">
+            <path d="M0,3.99922997 C0,1.79051625 1.79246765,0 3.99922997,0 L16.00077,0 C18.2094838,0 20,1.79246765 20,3.99922997 L20,16.00077 C20,18.2094838 18.2075324,20 16.00077,20 L3.99922997,20 C1.79051625,20 0,18.2075324 0,16.00077 L0,3.99922997 L0,3.99922997 Z M24,3.99922997 C24,1.79051625 25.7924676,0 27.99923,0 L40.00077,0 C42.2094838,0 44,1.79246765 44,3.99922997 L44,16.00077 C44,18.2094838 42.2075324,20 40.00077,20 L27.99923,20 C25.7905162,20 24,18.2075324 24,16.00077 L24,3.99922997 L24,3.99922997 Z M24,27.99923 C24,25.7905162 25.7924676,24 27.99923,24 L40.00077,24 C42.2094838,24 44,25.7924676 44,27.99923 L44,40.00077 C44,42.2094838 42.2075324,44 40.00077,44 L27.99923,44 C25.7905162,44 24,42.2075324 24,40.00077 L24,27.99923 L24,27.99923 Z M0,27.99923 C0,25.7905162 1.79246765,24 3.99922997,24 L16.00077,24 C18.2094838,24 20,25.7924676 20,27.99923 L20,40.00077 C20,42.2094838 18.2075324,44 16.00077,44 L3.99922997,44 C1.79051625,44 0,42.2075324 0,40.00077 L0,27.99923 L0,27.99923 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>

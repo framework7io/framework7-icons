@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="70px" height="50px" viewBox="0 0 70 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="70px" height="59px" viewBox="0 0 70 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
     <title>cloud_download_fill</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="cloud_download_fill" transform="translate(0.000000, -5.000000)" fill="#000000">
+        <g id="cloud_download_fill" fill="#000000">
             <path d="M36.0500488,44 L58,44 C64.627417,44 70,38.627417 70,32 C70,26.0142255 65.6173657,21.0520702 59.8779727,20.2202977 L57.8900879,20.0004929 C57.8900879,20.0004929 57.9360329,18.0000957 58,18 C58,8.0588745 49.9411255,0 40,0 C33.3204062,0 27.4905925,3.63834085 24.3842353,9.04134602 C24,9.81460785 23.4737076,10.8552975 23.4737076,10.8552975 C23.4737076,10.8552975 22,10 21.7468271,9.81460785 C20.6060617,9.29157405 19.3370812,9 18,9 C13.0294373,9 9,13.0294373 9,18 C9,18.2084724 9.00708811,18.4152894 9.02103649,18.6202229 C3.78761885,20.3009561 0,25.2081552 0,31 C0,38.1797017 5.82029825,44 13,44 L34.0500488,44 L34.0500488,20.25 L36.0500488,20.25 L36.0500488,44 Z" id="Combined-Shape"></path>
             <g id="Group-15" transform="translate(26.000000, 43.649994)">
                 <rect id="Rectangle-4" x="8.05004883" y="0.350006104" width="2" height="12.0743127"></rect>

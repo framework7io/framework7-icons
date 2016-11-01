@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="51px" height="50px" viewBox="0 0 51 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="51px" height="45px" viewBox="0 0 51 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
     <title>heart_fill</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="heart_fill" transform="translate(0.000000, 2.000000)" fill="#000000">
+        <g id="heart_fill" fill="#000000">
             <path d="M25.1562004,44.7355984 C25.257729,44.8110481 25.3124008,44.6194302 25.3124008,44.6194302 C26.7876847,43.5214627 33.0691259,38.8259512 35.0804348,36.9848952 C45.2850971,27.6440358 56.5237395,13.2867918 46.2425892,3.81379787 C36.6789368,-4.99809754 26.5266342,4.04176052 25.1562004,5.34641925 C23.7857666,4.04176052 13.633464,-4.99809754 4.0698116,3.81379787 C-6.21133874,13.2867918 5.02730367,27.6440358 15.2319659,36.9848952 C17.2432749,38.8259512 23.5247161,43.5214627 25,44.6194302 C25,44.6194302 25.0546718,44.8110481 25.1562004,44.7355984 Z" id="Combined-Shape"></path>
         </g>
     </g>

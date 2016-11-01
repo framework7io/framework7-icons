@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="alarm_fill" fill="#000000">
+        <g id="alarm_fill" transform="translate(0.000000, 1.000000)" fill="#000000">
             <path d="M25,48 C37.1502645,48 47,38.1502645 47,26 C47,13.8497355 37.1502645,4 25,4 C12.8497355,4 3,13.8497355 3,26 C3,38.1502645 12.8497355,48 25,48 Z M25,29 L26,29 L26,11 L24,11 L24,27 L14,27 L14,29 L25,29 Z" id="Combined-Shape"></path>
             <rect id="Rectangle-117" transform="translate(6.950406, 44.662289) rotate(-45.000000) translate(-6.950406, -44.662289) " x="2.86259528" y="43.1622885" width="8.17562152" height="3"></rect>
             <rect id="Rectangle-117" transform="translate(42.648201, 44.662289) scale(-1, 1) rotate(-45.000000) translate(-42.648201, -44.662289) " x="38.56039" y="43.1622885" width="8.17562152" height="3"></rect>

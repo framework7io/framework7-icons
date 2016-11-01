@@ -104,6 +104,12 @@
       "name": "briefcase_fill"
     },
     {
+      "name": "calendar"
+    },
+    {
+      "name": "calendar_fill"
+    },
+    {
       "name": "camera"
     },
     {
@@ -519,12 +525,6 @@
     },
     {
       "name": "pie_fill"
-    },
-    {
-      "name": "placemark"
-    },
-    {
-      "name": "placemark_fill"
     },
     {
       "name": "play"

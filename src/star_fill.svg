@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="54px" height="50px" viewBox="0 0 54 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="54px" height="51px" viewBox="0 0 54 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
     <title>star_fill</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="star_fill" transform="translate(-1.000000, -3.000000)" fill="#000000">
+        <g id="star_fill" transform="translate(-1.000000, 0.000000)" fill="#000000">
             <polygon id="Star-1" points="28 38.626875 11.5420129 50.6524758 17.8932413 31.283885 1.37041754 19.3475242 21.7536796 19.4026775 28 0 34.2463204 19.4026775 54.6295825 19.3475242 38.1067587 31.283885 44.4579871 50.6524758"></polygon>
         </g>
     </g>
