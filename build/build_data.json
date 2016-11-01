@@ -602,6 +602,33 @@
       "name": "share_fill"
     },
     {
+      "name": "social_facebook"
+    },
+    {
+      "name": "social_facebook_fill"
+    },
+    {
+      "name": "social_googleplus"
+    },
+    {
+      "name": "social_instagram"
+    },
+    {
+      "name": "social_instagram_fill"
+    },
+    {
+      "name": "social_linkedin"
+    },
+    {
+      "name": "social_linkedin_fill"
+    },
+    {
+      "name": "social_twitter"
+    },
+    {
+      "name": "social_twitter_fill"
+    },
+    {
       "name": "sort"
     },
     {
