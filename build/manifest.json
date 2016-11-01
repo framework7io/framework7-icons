@@ -608,6 +608,12 @@
       "name": "social_facebook_fill"
     },
     {
+      "name": "social_github"
+    },
+    {
+      "name": "social_github_fill"
+    },
+    {
       "name": "social_googleplus"
     },
     {
@@ -621,6 +627,12 @@
     },
     {
       "name": "social_linkedin_fill"
+    },
+    {
+      "name": "social_rss"
+    },
+    {
+      "name": "social_rss_fill"
     },
     {
       "name": "social_twitter"
