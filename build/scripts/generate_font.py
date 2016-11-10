@@ -123,15 +123,6 @@ f.fontname = font_name
 f.familyname = font_name
 f.fullname = font_name
 f.generate(fontfile + '.ttf')
-f.generate(fontfile + '.svg')
-
-# Fix SVG header for webkit
-# from: https://github.com/fontello/font-builder/blob/master/bin/fontconvert.py
-svgfile = open(fontfile + '.svg', 'r+')
-svgtext = svgfile.read()
-svgfile.seek(0)
-svgfile.write(svgtext.replace('''<svg>''', '''<svg xmlns="http://www.w3.org/2000/svg">'''))
-svgfile.close()
 
 scriptPath = os.path.dirname(os.path.realpath(__file__))
 try:
