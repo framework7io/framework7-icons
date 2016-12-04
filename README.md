@@ -2,9 +2,9 @@
 
 # Framework7 Icons
 
-The premium and free iOS-icons font for [Framework7](http://framework7.ios/).
+The premium and free iOS-icons font for [Framework7](http://framework7.io/).
 
-The font is developed to be used with [Framework7](http://framework7.ios/), but you can use it wherever you see it fits, personal or commercial. It is free to use and licensed under [MIT](http://opensource.org/licenses/MIT).
+The font is developed to be used with [Framework7](http://framework7.io/), but you can use it wherever you see it fits, personal or commercial. It is free to use and licensed under [MIT](http://opensource.org/licenses/MIT).
 
 ## Getting Started
 
