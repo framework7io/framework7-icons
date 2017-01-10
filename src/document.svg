@@ -5,10 +5,9 @@
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="document" fill="#000000">
-            <path d="M1.08420217e-19,2.00000123 L1.9977848,0.00221274302 L2,46 L0,44 L34,44 L32,46 L32,16.0368747 L32.584577,17.4498777 L16.5950347,1.43295143 L18.0082425,2.01994713 L1.08420217e-19,2.00000123 Z M18.0104577,0.019948352 L34,16.0368747 L34,46 L0,46 L0,0 L18.0104577,0.019948352 Z" id="Rectangle-2"></path>
-            <polygon id="Rectangle-69" points="16 2 17.2001953 2 18.0200195 2.84002686 18.0200195 18 16 18"></polygon>
-            <polygon id="Rectangle-69" points="32 18 18 18 18 16 32 16"></polygon>
+        <g id="document" stroke-width="2">
+            <polygon id="Path-17" stroke="#C20000" points="1 1 1 45.0113622 33.0152683 45.0113622 33 16.5 17.5 1"></polygon>
+            <polyline id="Path-18" stroke="#979797" points="17 2 17 17.0332964 32.000037 17.0332964"></polyline>
         </g>
     </g>
 </svg>
