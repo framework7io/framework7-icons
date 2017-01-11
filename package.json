@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/nolimits4web/Framework7-Icons/issues"
   },
-  "homepage": "http://framework7.io/",
+  "homepage": "http://framework7.io/icons/",
   "engines": {
     "node": ">= 0.10.0"
   }
