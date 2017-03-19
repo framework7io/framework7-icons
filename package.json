@@ -1,6 +1,6 @@
 {
   "name": "framework7-icons",
-  "version": "0.8.9",
+  "version": "0.9.0",
   "description": "Free iOS-icons font for Framework7",
   "main": "",
   "repository": {
@@ -24,5 +24,8 @@
   "homepage": "http://framework7.io/icons/",
   "engines": {
     "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "build": "python ./build/generate.py"
   }
 }
