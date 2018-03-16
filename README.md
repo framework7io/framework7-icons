@@ -65,6 +65,21 @@ Or with [npm](http://npmjs.com/):
 
     $ npm install framework7-icons
 
+## Webpack
+
+When using webpack, you must add loaders for css and fonts.
+
+```js
+{ test: /\.css/, loader: 'style-loader!css-loader' },
+{ test: /\.(woff|woff2|eot|ttf)$/, loader: 'url-loader?limit=100000' },
+```
+
+Then you can import the module like so:
+
+```js
+import 'framework7-icons';
+```
+
 
 ## HTML Example
 

@@ -1,8 +1,8 @@
 {
   "name": "framework7-icons",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Free iOS-icons font for Framework7",
-  "main": "",
+  "main": "css/framework7-icons.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/nolimits4web/Framework7-Icons.git"
