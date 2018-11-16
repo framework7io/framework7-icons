@@ -28,7 +28,7 @@ The font is developed to be used with [Framework7](http://framework7.io/), but y
       font-family: 'Framework7 Icons';
       font-weight: normal;
       font-style: normal;
-      font-size: 25px;
+      font-size: 28px;
       line-height: 1;
       letter-spacing: normal;
       text-transform: none;
@@ -94,20 +94,20 @@ This example uses a typographic feature called [ligatures](http://alistapart.com
 
 ### Sizing
 
-Framework7 Icons look best at 25px, but if an icon needs to be displayed in an alternative size, just use CSS `font-size` rule:
+Framework7 Icons look best at 28px, but if an icon needs to be displayed in an alternative size, just use CSS `font-size` rule:
 
 ```css
-.size-22 { font-size: 22px }
-.size-25 { font-size: 25px }
-.size-29 { font-size: 29px }
-.size-50 { font-size: 50px }
+.size-14 { font-size: 14px }
+.size-28 { font-size: 28px }
+.size-32 { font-size: 32px }
+.size-56 { font-size: 56px }
 ```
 
 ```html
-<i class="f7-icons size-22">home</i>
-<i class="f7-icons size-25">home</i>
-<i class="f7-icons size-29">home</i>
-<i class="f7-icons size-50">home</i>
+<i class="f7-icons size-14">home</i>
+<i class="f7-icons size-28">home</i>
+<i class="f7-icons size-32">home</i>
+<i class="f7-icons size-56">home</i>
 ```
 
 ### Coloring

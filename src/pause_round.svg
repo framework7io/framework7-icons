@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>pause_round</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="pause_round" fill="#000000">
-            <path d="M48,25 C48,12.2974508 37.7025492,2 25,2 C12.2974508,2 2,12.2974508 2,25 C2,37.7025492 12.2974508,48 25,48 C37.7025492,48 48,37.7025492 48,25 Z M0,25 C0,11.1928813 11.1928813,0 25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 Z" id="Oval-30"></path>
-            <rect id="Rectangle-91" x="17" y="14" width="6" height="22"></rect>
-            <rect id="Rectangle-91-Copy-2" x="27" y="14" width="6" height="22"></rect>
+            <path d="M28,52 C41.254834,52 52,41.254834 52,28 C52,14.745166 41.254834,4 28,4 C14.745166,4 4,14.745166 4,28 C4,41.254834 14.745166,52 28,52 Z M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z" id="Oval" fill-rule="nonzero"></path>
+            <path d="M18,16.0032996 C18,15.4491925 18.4530363,15 18.9970301,15 L25.0029699,15 C25.5536144,15 26,15.4512787 26,16.0032996 L26,39.9967004 C26,40.5508075 25.5469637,41 25.0029699,41 L18.9970301,41 C18.4463856,41 18,40.5487213 18,39.9967004 L18,16.0032996 Z" id="Rectangle-91"></path>
+            <path d="M30,16.0032996 C30,15.4491925 30.4530363,15 30.9970301,15 L37.0029699,15 C37.5536144,15 38,15.4512787 38,16.0032996 L38,39.9967004 C38,40.5508075 37.5469637,41 37.0029699,41 L30.9970301,41 C30.4463856,41 30,40.5487213 30,39.9967004 L30,16.0032996 Z" id="Rectangle-91-Copy"></path>
         </g>
     </g>
 </svg>

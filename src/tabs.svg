@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>tabs</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="tabs" fill="#000000">
-            <path d="M2,47 L2,13 L36,13 L36,47 L2,47 L2,47 Z M0,48 L0,11 L1,11 L37,11 L38,11 L38,49 L37,49 L0,49 L0,48 L0,48 Z" id="Combined-Shape"></path>
-            <polygon id="Combined-Shape" points="48 38 49 38 49 0 48 0 12 0 11 0 11 9 13 9 13 2 47 2 47 36 40 36 40 38 48 38"></polygon>
+        <g id="tabs" transform="translate(7.000000, 7.000000)" fill="#000000">
+            <path d="M0,12.0002124 C0,9.79095608 1.79203193,8 4.00021236,8 L29.9997876,8 C32.2090439,8 34,9.79203193 34,12.0002124 L34,37.9997876 C34,40.2090439 32.2079681,42 29.9997876,42 L4.00021236,42 C1.79095608,42 0,40.2079681 0,37.9997876 L0,12.0002124 Z M4,16.0055203 L4,33.9944797 C4,36.2129147 5.7933325,38 8.00552025,38 L25.9944797,38 C28.2129147,38 30,36.2066675 30,33.9944797 L30,16.0055203 C30,13.7870853 28.2066675,12 25.9944797,12 L8.00552025,12 C5.78708529,12 4,13.7933325 4,16.0055203 Z" id="Shape"></path>
+            <path d="M37.9997876,33.9997876 L37.9997876,8.00021236 C37.9997876,5.79203193 36.2088316,4 33.9995753,4 L8,4 C7.99978764,1.79095608 9.79181957,0 12,0 L37.9995753,0 C40.2088316,0 41.9997876,1.79203193 41.9997876,4.00021236 L41.9997876,29.9997876 C41.9997876,32.2090439 40.2077557,34 37.9995753,34 L37.9997876,33.9997876 Z" id="Path"></path>
         </g>
     </g>
 </svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>placemark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="placemark" transform="translate(11.000000, 4.000000)">
+            <path d="M30,19 C30,9.68186168 24.6216461,4 17,4 C9.37835395,4 4,9.68186168 4,19 C4,24.3518903 8.46985455,32.5757891 14.8400213,40.9939006 C15.0019238,41.2078532 15.1946085,41.4591546 15.4180754,41.7478049 C16.0942573,42.6212153 17.3504494,42.7811062 18.2238628,42.1049282 C18.3575964,42.0013945 18.4776574,41.8813157 18.5811712,41.7475668 C18.8003391,41.4643824 18.9895655,41.2175516 19.1488503,41.0070743 C25.5318806,32.572604 30,24.3508184 30,19 Z M0,19 C4.99655894e-16,7 7.61115925,0 17,0 C26.3888407,0 34,7 34,19 C34,28.1303073 24.1585924,41.3129589 19.4516231,47.0958374 C18.0976291,48.6997621 15.8248694,48.6368741 14.5492719,47.0969369 C9.8426553,41.3146302 0,28.1308861 0,19 Z" id="Shape" fill="#1B1A1A" fill-rule="nonzero"></path>
+            <circle id="Oval" stroke="#1B1A1A" stroke-width="4" cx="17" cy="17" r="6"></circle>
+        </g>
+    </g>
+</svg>

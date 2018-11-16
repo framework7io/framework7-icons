@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>delete_round_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="delete_round_fill" fill="#000000">
-            <path d="M22,44 C34.1502645,44 44,34.1502645 44,22 C44,9.8497355 34.1502645,0 22,0 C9.8497355,0 0,9.8497355 0,22 C0,34.1502645 9.8497355,44 22,44 Z M11,21 L33,21 L33,23 L11,23 L11,21 Z" id="Combined-Shape"></path>
+            <path d="M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z M12,28 C12,29.1122704 12.896211,30 14.0017433,30 L41.9982567,30 C43.1107383,30 44,29.1045695 44,28 C44,26.8877296 43.103789,26 41.9982567,26 L14.0017433,26 C12.8892617,26 12,26.8954305 12,28 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>

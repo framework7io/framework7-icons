@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="40px" height="50px" viewBox="0 0 40 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>box_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="box_fill" transform="translate(0.000000, 6.000000)" fill="#000000">
-            <path d="M2,12 L38,12 L38,38 L2,38 L2,12 Z M11,19.5 C11,17.5670034 12.5658937,16 14.4919239,16 L25.5080761,16 C27.4366124,16 29,17.5709366 29,19.5 C29,21.4329966 27.4341063,23 25.5080761,23 L14.4919239,23 C12.5633876,23 11,21.4290634 11,19.5 Z" id="Combined-Shape"></path>
-            <rect id="Rectangle-35" x="0" y="0" width="40" height="10"></rect>
+        <g id="box_fill" transform="translate(8.000000, 9.000000)" fill="#000000">
+            <path d="M2,0 L38,0 C39.1045695,-2.02906125e-16 40,0.8954305 40,2 L40,8 C40,9.1045695 39.1045695,10 38,10 L2,10 C0.8954305,10 1.3527075e-16,9.1045695 0,8 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle"></path>
+            <path d="M4,12 L36,12 C37.1045695,12 38,12.8954305 38,14 L38,34 C38,36.209139 36.209139,38 34,38 L6,38 C3.790861,38 2,36.209139 2,34 L2,14 C2,12.8954305 2.8954305,12 4,12 Z M15,16 C12.790861,16 11,17.790861 11,20 C11,22.209139 12.790861,24 15,24 L25,24 C27.209139,24 29,22.209139 29,20 C29,17.790861 27.209139,16 25,16 L15,16 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

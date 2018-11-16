@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>tabs_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="tabs_fill" fill="#000000">
-            <rect id="Rectangle-11" x="0" y="11" width="38" height="38"></rect>
-            <polygon id="Rectangle-13" points="49 0 11 0 11 9 40 9 40 38 49 38 49 4.5"></polygon>
+        <g id="tabs_fill" transform="translate(7.000000, 7.000000)" fill="#000000">
+            <path d="M0,12.0002124 C0,9.79095608 1.79203193,8 4.00021236,8 L29.9997876,8 C32.2090439,8 34,9.79203193 34,12.0002124 L34,37.9997876 C34,40.2090439 32.2079681,42 29.9997876,42 L4.00021236,42 C1.79095608,42 0,40.2079681 0,37.9997876 L0,12.0002124 Z" id="Rectangle-11"></path>
+            <path d="M37,34 L37,9.00021236 C37,6.79203193 35.2090439,5 32.9997876,5 L8,5 L8,4.00021236 C8,1.79095608 9.79203193,0 12.0002124,0 L37.9997876,0 C40.2090439,0 42,1.79203193 42,4.00021236 L42,29.9997876 C42,32.2090439 40.2079681,34 37.9997876,34 L37,34 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>compass_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="compass_fill" fill="#000000">
-            <path d="M28.6505316,27.5962924 L28.6568542,27.6026151 L39.263456,11.3391592 L23.0098834,21.9393152 L23.0059204,21.9353638 L11.0371496,39.5452924 L11,39.5823975 L11.0221572,39.567351 L11.0061646,39.5908813 L11.045498,39.5515007 L28.6505316,27.5962924 Z M16.6583859,33.9311164 L23.2204283,24.3076955 L24.8758216,25.9466766 L26.2831858,27.3681337 L16.6583859,33.9311164 Z M25,50 C38.8071187,50 50,38.8071187 50,25 C50,11.1928813 38.8071187,0 25,0 C11.1928813,0 0,11.1928813 0,25 C0,38.8071187 11.1928813,50 25,50 Z" id="Combined-Shape"></path>
+            <path d="M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z M32.2426407,32.2426407 L40.7279221,15.2720779 L23.7573593,23.7573593 L15.2720779,40.7279221 L32.2426407,32.2426407 Z M19.7442139,36.2557861 L25.3052623,25.1336894 L30.8663106,30.6947377 L19.7442139,36.2557861 Z" id="Combined-Shape"></path>
         </g>
     </g>
 </svg>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="26px" height="50px" viewBox="0 0 26 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>chevron_right</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="chevron_right" transform="translate(0.000000, 3.000000)" fill="#000000">
-            <polygon id="Shape" transform="translate(13.000000, 22.000000) scale(-1, 1) translate(-13.000000, -22.000000) " points="26 4.4 8.66666667 22 26 39.6 21.6666667 44 0 22 21.6666667 0"></polygon>
+        <g id="chevron_right" transform="translate(16.000000, 8.000000)" fill="#000000">
+            <path d="M23.0517684,21.1434392 C22.9812821,21.2464721 22.9002009,21.3445837 22.808517,21.4362675 L5.12019285,39.1245917 C3.953255,40.2915295 2.06507424,40.2953288 0.88456759,39.1148221 C-0.287765761,37.9424886 -0.298644018,36.0526388 0.874798052,34.8791968 L15.7603817,19.9936131 L0.886961543,5.12019293 C-0.279976307,3.95325508 -0.283775572,2.06507432 0.896731282,0.884567665 C2.06906463,-0.287765886 3.95891447,-0.298643943 5.1323565,0.874798127 L22.8206806,18.5631222 C23.5264877,19.2689293 23.609187,20.3582668 23.0517684,21.1434392 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

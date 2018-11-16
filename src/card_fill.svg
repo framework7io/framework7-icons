@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>card_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="card_fill" transform="translate(0.000000, 7.000000)" fill="#000000">
-            <path d="M0,17 L50,17 L50,31.9938052 C50,34.2063655 48.2057317,36 45.9928103,36 L4.00718972,36 C1.79407995,36 0,34.2125261 0,31.9938052 L0,17 Z M6,27 L26,27 L26,29 L6,29 L6,27 Z M6,21 L36,21 L36,23 L6,23 L6,21 Z" id="Combined-Shape"></path>
-            <path d="M0,3.9999433 C0,1.79083562 1.79426827,0 4.00718972,0 L45.9928103,0 C48.2059201,0 50,1.79965349 50,3.9999433 L50,9 L0,9 L0,3.9999433 L0,3.9999433 Z" id="Combined-Shape"></path>
+        <g id="card_fill" transform="translate(3.000000, 10.000000)" fill="#000000">
+            <path d="M50,9 L0,9 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L46,0 C48.209139,-4.05812251e-16 50,1.790861 50,4 L50,9 Z M50,17 L50,32 C50,34.209139 48.209139,36 46,36 L4,36 C1.790861,36 2.705415e-16,34.209139 0,32 L0,17 L50,17 Z M9,24 C7.8954305,24 7,24.8954305 7,26 C7,27.1045695 7.8954305,28 9,28 L17,28 C18.1045695,28 19,27.1045695 19,26 C19,24.8954305 18.1045695,24 17,24 L9,24 Z M25,24 C23.8954305,24 23,24.8954305 23,26 C23,27.1045695 23.8954305,28 25,28 L41,28 C42.1045695,28 43,27.1045695 43,26 C43,24.8954305 42.1045695,24 41,24 L25,24 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

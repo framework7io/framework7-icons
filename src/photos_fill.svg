@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="58px" height="50px" viewBox="0 0 58 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>photos_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="photos_fill" transform="translate(0.000000, 2.000000)" fill="#000000">
-            <rect id="Rectangle-28" x="7" y="8" width="51" height="38"></rect>
-            <polygon id="Rectangle-29" points="2.5 0 50 0 50 6 5 6 5 38 0 38 0 0"></polygon>
+        <g id="photos_fill" transform="translate(0.000000, 7.000000)" fill="#000000">
+            <path d="M12,8 L52,8 C54.209139,8 56,9.790861 56,12 L56,38 C56,40.209139 54.209139,42 52,42 L12,42 C9.790861,42 8,40.209139 8,38 L8,12 C8,9.790861 9.790861,8 12,8 Z" id="Rectangle"></path>
+            <path d="M48,5 L9,5 C6.790861,5 5,6.790861 5,9 L5,34 L4,34 C1.790861,34 2.705415e-16,32.209139 0,30 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L44,0 C46.209139,-4.05812251e-16 48,1.790861 48,4 L48,5 Z" id="Path"></path>
         </g>
     </g>
 </svg>

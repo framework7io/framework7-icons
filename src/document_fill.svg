@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="34px" height="46px" viewBox="0 0 34 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>document_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="document_fill" fill="#000000">
-            <path d="M34,17.0184373 L34,46 L0,46 L0,0 L16,0.0177215725 L16,18 L17,18 L34,18 L34,17.0184373 L34,17.0184373 Z M33.9631884,16 L18.0104577,0.019948352 L18,0.0199367691 L18,16 L33.9631884,16 L33.9631884,16 Z" id="Combined-Shape"></path>
+        <g id="document_fill" transform="translate(7.000000, 3.000000)" fill="#000000">
+            <path d="M25,0 L25,13 C25,15.209139 26.790861,17 29,17 L42,17 L42,46 C42,48.209139 40.209139,50 38,50 L4,50 C1.790861,50 -6.83488586e-15,48.209139 -7.10542736e-15,46 L-7.10542736e-15,4 C-7.37596886e-15,1.790861 1.790861,4.05812251e-16 4,0 L25,0 Z M31.1469638,1.05138344 L40.7028985,9.8109903 C41.5294146,10.56863 42,11.6383813 42,12.7596069 L42,13 L31,13 C29.8954305,13 29,12.1045695 29,11 L29,0.0388094007 C29.7973211,0.150703725 30.5470884,0.501497695 31.1469638,1.05138344 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

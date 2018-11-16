@@ -19,14 +19,14 @@ OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, '..', 'manifest.json')
 PACKAGE_PATH = os.path.join(SCRIPT_PATH, '..', '..', 'package.json')
 BUILD_DATA_PATH = os.path.join(SCRIPT_PATH, '..', 'build_data.json')
-AUTO_WIDTH = True
+AUTO_WIDTH = False
 KERNING = 15
 
 m = md5.new()
 
 f = fontforge.font()
 f.encoding = 'UnicodeFull'
-f.design_size = 25
+f.design_size = 28
 f.em = 512
 f.ascent = 448
 f.descent = 64
@@ -110,6 +110,8 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
       if AUTO_WIDTH:
         glyph.left_side_bearing = glyph.right_side_bearing = 0
         glyph.round()
+      else:
+        glyph.width = 512
 
     # resize glyphs if autowidth is enabled
     if AUTO_WIDTH:

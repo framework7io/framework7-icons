@@ -23,6 +23,12 @@
       "name": "albums_fill"
     },
     {
+      "name": "alert"
+    },
+    {
+      "name": "alert_fill"
+    },
+    {
       "name": "arrow_down"
     },
     {
@@ -50,7 +56,13 @@
       "name": "at"
     },
     {
-      "name": "at_fill"
+      "name": "at_round"
+    },
+    {
+      "name": "at_round_fill"
+    },
+    {
+      "name": "attachment"
     },
     {
       "name": "bag"
@@ -59,13 +71,46 @@
       "name": "bag_fill"
     },
     {
+      "name": "barcode"
+    },
+    {
+      "name": "barcode_fill"
+    },
+    {
       "name": "bars"
+    },
+    {
+      "name": "bars_chart"
+    },
+    {
+      "name": "bars_chart_round"
+    },
+    {
+      "name": "bars_chart_round_fill"
+    },
+    {
+      "name": "bars_chart_square"
+    },
+    {
+      "name": "bars_chart_square_fill"
     },
     {
       "name": "bell"
     },
     {
       "name": "bell_fill"
+    },
+    {
+      "name": "bell_off"
+    },
+    {
+      "name": "bitcoin"
+    },
+    {
+      "name": "bitcoin_round"
+    },
+    {
+      "name": "bitcoin_round_fill"
     },
     {
       "name": "bolt"
@@ -104,16 +149,40 @@
       "name": "briefcase_fill"
     },
     {
+      "name": "bulb"
+    },
+    {
+      "name": "bulb_fill"
+    },
+    {
+      "name": "business"
+    },
+    {
+      "name": "business_fill"
+    },
+    {
       "name": "calendar"
     },
     {
       "name": "calendar_fill"
     },
     {
+      "name": "calendar_today"
+    },
+    {
+      "name": "calendar_today_fill"
+    },
+    {
       "name": "camera"
     },
     {
       "name": "camera_fill"
+    },
+    {
+      "name": "camera_round"
+    },
+    {
+      "name": "camera_round_fill"
     },
     {
       "name": "card"
@@ -125,13 +194,13 @@
       "name": "chat"
     },
     {
+      "name": "chat_bubble"
+    },
+    {
+      "name": "chat_bubble_fill"
+    },
+    {
       "name": "chat_fill"
-    },
-    {
-      "name": "chats"
-    },
-    {
-      "name": "chats_fill"
     },
     {
       "name": "check"
@@ -146,13 +215,37 @@
       "name": "chevron_down"
     },
     {
+      "name": "chevron_down_round"
+    },
+    {
+      "name": "chevron_down_round copy"
+    },
+    {
       "name": "chevron_left"
+    },
+    {
+      "name": "chevron_left_round"
+    },
+    {
+      "name": "chevron_left_round copy"
     },
     {
       "name": "chevron_right"
     },
     {
+      "name": "chevron_right_round"
+    },
+    {
+      "name": "chevron_right_round copy"
+    },
+    {
       "name": "chevron_up"
+    },
+    {
+      "name": "chevron_up_round"
+    },
+    {
+      "name": "chevron_up_round copy"
     },
     {
       "name": "circle"
@@ -197,6 +290,12 @@
       "name": "collection_fill"
     },
     {
+      "name": "color_filter"
+    },
+    {
+      "name": "color_filter_fill"
+    },
+    {
       "name": "compass"
     },
     {
@@ -227,16 +326,31 @@
       "name": "document"
     },
     {
+      "name": "document_chart"
+    },
+    {
+      "name": "document_chart_fill"
+    },
+    {
+      "name": "document_check"
+    },
+    {
+      "name": "document_check_fill"
+    },
+    {
       "name": "document_fill"
+    },
+    {
+      "name": "document_person"
+    },
+    {
+      "name": "document_person_fill"
     },
     {
       "name": "document_text"
     },
     {
       "name": "document_text_fill"
-    },
-    {
-      "name": "down"
     },
     {
       "name": "download"
@@ -263,16 +377,46 @@
       "name": "drawers_fill"
     },
     {
+      "name": "edit"
+    },
+    {
       "name": "email"
     },
     {
       "name": "email_fill"
     },
     {
+      "name": "enter"
+    },
+    {
+      "name": "enter_fill"
+    },
+    {
+      "name": "enter_round"
+    },
+    {
+      "name": "enter_round_fill"
+    },
+    {
+      "name": "exit"
+    },
+    {
+      "name": "exit_fill"
+    },
+    {
+      "name": "exit_round"
+    },
+    {
+      "name": "exit_round_fill"
+    },
+    {
       "name": "eye"
     },
     {
       "name": "eye_fill"
+    },
+    {
+      "name": "eye_off"
     },
     {
       "name": "fastforward"
@@ -290,6 +434,12 @@
       "name": "favorites"
     },
     {
+      "name": "favorites_alt"
+    },
+    {
+      "name": "favorites_alt_fill"
+    },
+    {
       "name": "favorites_fill"
     },
     {
@@ -300,9 +450,6 @@
     },
     {
       "name": "filter"
-    },
-    {
-      "name": "filter-fill"
     },
     {
       "name": "flag"
@@ -329,6 +476,12 @@
       "name": "gear_fill"
     },
     {
+      "name": "gift"
+    },
+    {
+      "name": "gift_fill"
+    },
+    {
       "name": "graph_round"
     },
     {
@@ -350,7 +503,10 @@
       "name": "help"
     },
     {
-      "name": "help_fill"
+      "name": "help_round"
+    },
+    {
+      "name": "help_round_fill"
     },
     {
       "name": "home"
@@ -365,10 +521,16 @@
       "name": "images_fill"
     },
     {
+      "name": "infinite"
+    },
+    {
       "name": "info"
     },
     {
-      "name": "info_fill"
+      "name": "info_round"
+    },
+    {
+      "name": "info_round_fill"
     },
     {
       "name": "keyboard"
@@ -380,10 +542,22 @@
       "name": "layers"
     },
     {
+      "name": "layers_alt"
+    },
+    {
+      "name": "layers_alt_fill"
+    },
+    {
       "name": "layers_fill"
     },
     {
-      "name": "left"
+      "name": "library"
+    },
+    {
+      "name": "library_fill"
+    },
+    {
+      "name": "link"
     },
     {
       "name": "list"
@@ -398,19 +572,34 @@
       "name": "lock_fill"
     },
     {
-      "name": "login"
+      "name": "logo_facebook"
     },
     {
-      "name": "login_fill"
+      "name": "logo_github"
     },
     {
-      "name": "logout"
+      "name": "logo_googleplus"
     },
     {
-      "name": "logout_fill"
+      "name": "logo_instagram"
+    },
+    {
+      "name": "logo_linkedin"
+    },
+    {
+      "name": "logo_rss"
+    },
+    {
+      "name": "logo_twitter"
     },
     {
       "name": "menu"
+    },
+    {
+      "name": "message"
+    },
+    {
+      "name": "message_fill"
     },
     {
       "name": "mic"
@@ -419,34 +608,58 @@
       "name": "mic_fill"
     },
     {
+      "name": "mic_off"
+    },
+    {
+      "name": "mic_round"
+    },
+    {
+      "name": "mic_round_fill"
+    },
+    {
       "name": "money_dollar"
     },
     {
-      "name": "money_dollar_fill"
+      "name": "money_dollar_round"
+    },
+    {
+      "name": "money_dollar_round_fill"
     },
     {
       "name": "money_euro"
     },
     {
-      "name": "money_euro_fill"
+      "name": "money_euro_round"
+    },
+    {
+      "name": "money_euro_round_fill"
     },
     {
       "name": "money_pound"
     },
     {
-      "name": "money_pound_fill"
+      "name": "money_pound_round"
+    },
+    {
+      "name": "money_pound_round_fill"
     },
     {
       "name": "money_rubl"
     },
     {
-      "name": "money_rubl_fill"
+      "name": "money_rubl_round"
+    },
+    {
+      "name": "money_rubl_round_fill"
     },
     {
       "name": "money_yen"
     },
     {
-      "name": "money_yen_fill"
+      "name": "money_yen_round"
+    },
+    {
+      "name": "money_yen_round_fill"
     },
     {
       "name": "more"
@@ -479,6 +692,12 @@
       "name": "navigation_fill"
     },
     {
+      "name": "navigation_round"
+    },
+    {
+      "name": "navigation_round_fill"
+    },
+    {
       "name": "paper_plane"
     },
     {
@@ -500,13 +719,19 @@
       "name": "person"
     },
     {
-      "name": "person_fill"
+      "name": "person_round"
+    },
+    {
+      "name": "person_round_fill"
     },
     {
       "name": "persons"
     },
     {
-      "name": "persons_fill"
+      "name": "persons_round"
+    },
+    {
+      "name": "persons_round_fill"
     },
     {
       "name": "phone"
@@ -527,10 +752,16 @@
       "name": "photos_fill"
     },
     {
-      "name": "pie"
+      "name": "pie_chart"
     },
     {
-      "name": "pie_fill"
+      "name": "pie_chart_fill"
+    },
+    {
+      "name": "placemark"
+    },
+    {
+      "name": "placemark_fill"
     },
     {
       "name": "play"
@@ -543,6 +774,9 @@
     },
     {
       "name": "play_round_fill"
+    },
+    {
+      "name": "qrcode"
     },
     {
       "name": "radio"
@@ -587,13 +821,16 @@
       "name": "rewind_round_fill"
     },
     {
-      "name": "right"
+      "name": "rocket"
+    },
+    {
+      "name": "rocket_fill"
+    },
+    {
+      "name": "scissors"
     },
     {
       "name": "search"
-    },
-    {
-      "name": "search_strong"
     },
     {
       "name": "settings"
@@ -608,49 +845,31 @@
       "name": "share_fill"
     },
     {
-      "name": "social_facebook"
-    },
-    {
-      "name": "social_facebook_fill"
-    },
-    {
-      "name": "social_github"
-    },
-    {
-      "name": "social_github_fill"
-    },
-    {
-      "name": "social_googleplus"
-    },
-    {
-      "name": "social_instagram"
-    },
-    {
-      "name": "social_instagram_fill"
-    },
-    {
-      "name": "social_linkedin"
-    },
-    {
-      "name": "social_linkedin_fill"
-    },
-    {
-      "name": "social_rss"
-    },
-    {
-      "name": "social_rss_fill"
-    },
-    {
-      "name": "social_twitter"
-    },
-    {
-      "name": "social_twitter_fill"
-    },
-    {
       "name": "sort"
     },
     {
-      "name": "sort_fill"
+      "name": "sort_down"
+    },
+    {
+      "name": "sort_down_round"
+    },
+    {
+      "name": "sort_down_round_fill"
+    },
+    {
+      "name": "sort_round"
+    },
+    {
+      "name": "sort_round_fill"
+    },
+    {
+      "name": "sort_up"
+    },
+    {
+      "name": "sort_up_round"
+    },
+    {
+      "name": "sort_up_round_fill"
     },
     {
       "name": "star"
@@ -660,6 +879,9 @@
     },
     {
       "name": "star_half"
+    },
+    {
+      "name": "star_round_fill"
     },
     {
       "name": "stopwatch"
@@ -672,6 +894,12 @@
     },
     {
       "name": "tabs_fill"
+    },
+    {
+      "name": "tag"
+    },
+    {
+      "name": "tag_fill"
     },
     {
       "name": "tags"
@@ -690,6 +918,12 @@
     },
     {
       "name": "ticket_fill"
+    },
+    {
+      "name": "tickets"
+    },
+    {
+      "name": "tickets_fill"
     },
     {
       "name": "time"
@@ -731,7 +965,10 @@
       "name": "unlock_fill"
     },
     {
-      "name": "up"
+      "name": "upload_round"
+    },
+    {
+      "name": "upload_round_fill"
     },
     {
       "name": "videocam"
@@ -762,6 +999,15 @@
     },
     {
       "name": "volume_mute_fill"
+    },
+    {
+      "name": "volume_off"
+    },
+    {
+      "name": "waterdrop"
+    },
+    {
+      "name": "waterdrop_fill"
     },
     {
       "name": "world"

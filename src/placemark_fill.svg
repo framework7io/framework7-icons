@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>placemark_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="placemark_fill" transform="translate(11.000000, 4.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M0,19 C4.99655894e-16,7 7.61115925,-1.42108547e-14 17,-1.42108547e-14 C26.3888407,-1.42108547e-14 34,7 34,19 C34,28.1303073 24.1585924,41.3129589 19.4516231,47.0958374 C18.0976291,48.6997621 15.8248694,48.6368741 14.5492719,47.0969369 C9.8426553,41.3146302 0,28.1308861 0,19 Z M17,23 C20.3137085,23 23,20.3137085 23,17 C23,13.6862915 20.3137085,11 17,11 C13.6862915,11 11,13.6862915 11,17 C11,20.3137085 13.6862915,23 17,23 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

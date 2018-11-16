@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>info_round_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info_round_fill" fill="#000000">
+            <path d="M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z M28,20 C30.209139,20 32,18.209139 32,16 C32,13.790861 30.209139,12 28,12 C25.790861,12 24,13.790861 24,16 C24,18.209139 25.790861,20 28,20 Z M28,24 C26.8954305,24 26,24.8954305 26,26 L26,42 C26,43.1045695 26.8954305,44 28,44 C29.1045695,44 30,43.1045695 30,42 L30,26 C30,24.8954305 29.1045695,24 28,24 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

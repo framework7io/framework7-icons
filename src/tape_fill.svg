@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="62px" height="50px" viewBox="0 0 62 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>tape_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="tape_fill" transform="translate(0.000000, 11.000000)" fill="#000000">
-            <circle id="Oval-21" cx="14" cy="14" r="14"></circle>
-            <circle id="Oval-21-Copy" cx="48" cy="14" r="14"></circle>
-            <rect id="Rectangle-59" x="14" y="26" width="34" height="2"></rect>
+        <g id="tape_fill" transform="translate(2.000000, 16.000000)" fill="#000000">
+            <path d="M31.055574,20 C29.1554143,17.876974 28,15.0734177 28,12 C28,5.372583 33.372583,0 40,0 C46.627417,0 52,5.372583 52,12 C52,18.2906638 47.1595305,23.4507753 41,23.9589262 L41,24 L12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C18.627417,0 24,5.372583 24,12 C24,15.0734177 22.8445857,17.876974 20.944426,20 L31.055574,20 Z" id="Path"></path>
         </g>
     </g>
 </svg>

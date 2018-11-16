@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron_left_round</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron_left_round">
+            <circle id="Oval" stroke="#000000" stroke-width="4" cx="28" cy="28" r="26"></circle>
+            <path d="M17.2923752,27.0852486 C17.3487643,27.0028223 17.4136293,26.9243331 17.4869763,26.850986 L31.6376357,12.7003267 C32.571186,11.7667764 34.0817306,11.763737 35.0261359,12.7081423 C35.9640026,13.6460091 35.9727052,15.157889 35.0339515,16.0966426 L23.1254846,28.0051096 L35.0242207,39.9038457 C35.957771,40.8373959 35.9608104,42.3479405 35.0164049,43.2923459 C34.0785382,44.2302127 32.5666584,44.2389152 31.6279048,43.3001615 L17.4772454,29.1495022 C16.9125998,28.5848565 16.8464404,27.7133865 17.2923752,27.0852486 Z" id="Shape" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

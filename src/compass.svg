@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>compass</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="compass" fill="#000000">
-            <path d="M48,25 C48,12.2974508 37.7025492,2 25,2 C12.2974508,2 2,12.2974508 2,25 C2,37.7025492 12.2974508,48 25,48 C37.7025492,48 48,37.7025492 48,25 Z M0,25 C0,11.1928813 11.1928813,0 25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 Z" id="Oval-12"></path>
-            <polygon id="Triangle-7" transform="translate(32.545942, 18.056674) rotate(-315.000000) translate(-32.545942, -18.056674) " points="36.5459415 27.5566736 28.5459415 27.5566736 32.5459415 8.55667359"></polygon>
-            <path d="M28.6760185,27.6068665 L23.0191643,21.9500122 L10.998349,39.6276817 L28.6760185,27.6068665 Z M26.3500977,27.4000244 L23.25,24.2999878 L16.6000977,34 L26.3500977,27.4000244 Z" id="Combined-Shape"></path>
+            <path d="M28,51 C40.7025492,51 51,40.7025492 51,28 C51,15.2974508 40.7025492,5 28,5 C15.2974508,5 5,15.2974508 5,28 C5,40.7025492 15.2974508,51 28,51 Z M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z" id="Oval" fill-rule="nonzero"></path>
+            <path d="M31.9705627,31.9705627 L15,40.4558441 L23.4852814,23.4852814 L40.4558441,15 L31.9705627,31.9705627 Z M20.472136,34.9837082 L29.5942327,29.4226598 L26.0331843,25.8616114 L20.472136,34.9837082 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

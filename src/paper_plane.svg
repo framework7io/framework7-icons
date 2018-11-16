@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>paper_plane</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="paper_plane" fill="#000000">
-            <path d="M46,0 L25.2874868,46 L17.7317193,29.0158208 L0,21.0532074 L46,0 Z M40.1000977,4.90002441 L18.3999023,27.2000122 L4.85009766,21.0300293 L40.1000977,4.90002441 Z M40.4501953,7.40002441 L25.2998047,41.0999756 L19.75,28.6500244 L40.4501953,7.40002441 Z" id="Combined-Shape"></path>
+        <g id="paper_plane" transform="translate(5.000000, 5.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M18.2866001,24.8801943 L33.1833416,10.2649434 L9.68728423,21.0185819 L18.2866001,24.8801943 Z M35.4846604,13.6107735 L21.4027014,27.4266381 L25.3095162,36.2085445 L35.4846604,13.6107735 Z M42.3712538,1.66079881 C44.375355,0.743564957 45.2628307,1.63716435 44.357411,3.64799258 L26.9300758,42.3520074 C26.0228989,44.3667381 24.563008,44.3714855 23.6619448,42.3460367 L17.7317193,29.0158208 L3.65252376,22.6934113 C1.63529059,21.7875517 1.63716435,20.3039126 3.62874616,19.3924086 L42.3712538,1.66079881 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>chat_bubble_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chat_bubble_fill" transform="translate(4.000000, 5.000000)" fill="#000000">
+            <path d="M23.912,0 C10.704,0 0,8.984 0,20.064 C0,26.034 3.11,31.4 8.044,35.076 C8.352,35.302 9.162,35.86 9.226,35.898 C11.326,37.444 9.306,41.06 7.21,43.278 C6.052,44.506 6.234,44.888 7.746,44.504 C15.106,42.642 16.474,39.05 19.704,39.82 C19.706,39.82 19.71,39.822 19.712,39.822 L19.71,39.822 C21.076,40.024 22.478,40.13 23.912,40.13 C37.118,40.13 47.824,31.146 47.824,20.064 C47.824,8.984 37.118,0 23.912,0" id="message"></path>
+        </g>
+    </g>
+</svg>

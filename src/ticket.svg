@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="59px" height="50px" viewBox="0 0 59 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>ticket</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ticket" transform="translate(1.000000, 8.000000)">
-            <rect id="Rectangle-94" fill="#000000" x="0" y="0" width="58" height="2"></rect>
-            <rect id="Rectangle-94-Copy" fill="#000000" x="0" y="32" width="58" height="2"></rect>
-            <rect id="Rectangle-95" fill="#000000" x="56" y="2" width="2" height="11"></rect>
-            <rect id="Rectangle-95-Copy" fill="#000000" x="0" y="2" width="2" height="11"></rect>
-            <rect id="Rectangle-96" fill="#000000" x="56" y="21" width="2" height="11"></rect>
-            <rect id="Rectangle-96-Copy" fill="#000000" x="0" y="21" width="2" height="11"></rect>
-            <path d="M56,12 C53.2385763,12 51,14.2385763 51,17 C51,19.7614237 53.2385763,22 56,22 L56,22" id="Oval-46" stroke="#000000" stroke-width="2"></path>
-            <path d="M2,22 L2,22 C4.76142375,22 7,19.7614237 7,17 C7,14.2385763 4.76142375,12 2,12" id="Oval-46-Copy" stroke="#000000" stroke-width="2"></path>
-            <circle id="Oval-47" fill="#000000" cx="42" cy="8" r="2"></circle>
-            <circle id="Oval-47-Copy" fill="#000000" cx="42" cy="17" r="2"></circle>
-            <circle id="Oval-47-Copy-2" fill="#000000" cx="42" cy="26" r="2"></circle>
+        <g id="ticket" transform="translate(3.000000, 12.000000)" fill="#000000">
+            <path d="M9,16 C9,19.4590204 7.02926373,22.5600616 4.00001507,24.0635303 L4,27 C3.99999789,27.5522847 4.44771142,28.0000017 4.99999617,28.0000038 C4.99999745,28.0000038 4.99999872,28.0000038 5,28.0000038 L45.0000149,28 C45.5522996,28 46.0000149,27.5522847 46.0000149,27 L46.0000149,24.063643 C42.9766105,22.563588 41,19.4645967 41,16 C41,12.5371248 42.9748086,9.43747737 46.000008,7.93639543 L46.0000149,5 C46.0000158,4.44771525 45.5523014,3.99999922 45.0000166,3.99999825 C45.000016,3.99999825 45.0000155,3.99999825 45.0000149,3.99999825 L5,4 C4.44771525,4 4,4.44771525 4,5 L4,7.93645778 C7.02890939,9.43971604 9,12.5406464 9,16 Z M4.96935826e-13,4 C4.96935826e-13,1.790861 1.790861,0 4,0 L46,0 C48.209139,0 50,1.790861 50,4 L50.0000091,8.44924833 C50.0000091,9.73351889 49.2320389,10.8933121 48.0496693,11.3946633 C46.2572792,12.1546768 45,13.9305117 45,16 C45,18.0871878 46.2788772,19.8756779 48.0957752,20.6246137 C49.248091,21.0996049 50.0000171,22.2228557 50.0000171,23.4692297 L50,28 C50,30.209139 48.209139,32 46,32 L4,32 C1.790861,32 4.96935826e-13,30.209139 4.96935826e-13,28 L1.63146297e-05,23.737278 C1.63146297e-05,22.3669055 0.803248902,21.1237726 2.05256398,20.5606272 C3.79034591,19.7772988 5,18.0299143 5,16 C5,13.9667184 3.78632936,12.2169047 2.04391157,11.4354826 C0.800260191,10.8777422 -1.63137647e-05,9.64177216 -1.63137647e-05,8.27878167 L4.96935826e-13,4 Z" id="Path" fill-rule="nonzero"></path>
+            <circle id="Oval" cx="36" cy="8" r="3"></circle>
+            <circle id="Oval-Copy-18" cx="36" cy="16" r="3"></circle>
+            <circle id="Oval-Copy-19" cx="36" cy="24" r="3"></circle>
         </g>
     </g>
 </svg>

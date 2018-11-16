@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>barcode_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="barcode_fill" transform="translate(3.000000, 10.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M4,0 L46,0 C48.209139,-4.05812251e-16 50,1.790861 50,4 L50,32 C50,34.209139 48.209139,36 46,36 L4,36 C1.790861,36 2.705415e-16,34.209139 0,32 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z M8,8 L8,28 L12,28 L12,8 L8,8 Z M15,8 L15,28 L17,28 L17,8 L15,8 Z M20,8 L20,28 L23,28 L23,8 L20,8 Z M26,8 L26,28 L30,28 L30,8 L26,8 Z M33,8 L33,28 L34,28 L34,8 L33,8 Z M37,8 L37,28 L42,28 L42,8 L37,8 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

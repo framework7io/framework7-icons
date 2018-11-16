@@ -32,7 +32,7 @@ def generate_font_files():
 def generate_cheatsheet(data, package):
   print "Generate Cheatsheet"
 
-  cheatsheet_file_path = os.path.join(ROOT_PATH, 'cheatsheet.html')
+  cheatsheet_file_path = os.path.join(ROOT_PATH, 'cheatsheet/index.html')
   template_path = os.path.join(BUILDER_PATH, 'cheatsheet', 'template.html')
   icon_row_path = os.path.join(BUILDER_PATH, 'cheatsheet', 'icon-row.html')
 

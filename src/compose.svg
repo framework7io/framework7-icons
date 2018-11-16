@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="46px" height="50px" viewBox="0 0 46 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>compose</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="compose" fill="#000000">
-            <polygon id="Triangle-3" points="17.8452148 24.2156372 23.3154297 29.906189 16.3598478 31.1040111"></polygon>
-            <rect id="Rectangle-24" transform="translate(42.000000, 5.500000) rotate(-315.000000) translate(-42.000000, -5.500000) " x="38" y="3" width="8" height="5"></rect>
-            <rect id="Rectangle-19" x="0" y="10" width="2" height="38"></rect>
-            <rect id="Rectangle-20" x="0" y="46" width="38" height="2"></rect>
-            <polygon id="Rectangle-21" points="0 10 30 10 28 12 0 12"></polygon>
-            <polygon id="Rectangle-22" points="36 20 38 18 38 48 36 48"></polygon>
-            <rect id="Rectangle-27" transform="translate(27.840965, 15.899495) rotate(-315.000000) translate(-27.840965, -15.899495) " x="26.6409651" y="2.89949494" width="2.4000001" height="26"></rect>
-            <rect id="Rectangle-27-Copy" transform="translate(31.641014, 19.899495) rotate(-315.000000) translate(-31.641014, -19.899495) " x="30.4410139" y="6.89949494" width="2.4000001" height="26"></rect>
+        <g id="compose" transform="translate(5.000000, 5.000000)" fill="#000000">
+            <path d="M45.078,1.897 L43.734,0.555 C42.994,-0.185 41.784,-0.185 41.044,0.555 L39.702,1.897 L43.734,5.931 L45.078,4.587 C45.818,3.849 45.818,2.641 45.078,1.897 L45.078,1.897 Z" id="Path" style="mix-blend-mode: color-burn;"></path>
+            <path d="M39.67,4.649 L38.326,3.305 L17.9,23.707 C17.9,23.707 16.986,25.321 16.646,26.465 C16.142,28.163 15.986,29.617 15.986,29.617 C15.986,29.617 17.678,29.569 19.36,29.023 C20.432,28.677 21.932,27.741 21.932,27.741 L42.36,7.341 L41.014,5.997 L39.67,4.649 Z" id="Path" style="mix-blend-mode: color-burn;"></path>
+            <path d="M35.972,40.651 C35.972,41.191 35.514,41.651 34.972,41.651 L5,41.651 C4.458,41.651 4,41.191 4,40.651 L4,10.633 C4,10.091 4.458,9.633 5,9.633 L27.162,9.633 L30.978,5.633 L5,5.633 C2.244,5.633 0,7.875 0,10.633 L0,40.651 C0,43.407 2.244,45.651 5,45.651 L34.972,45.651 C37.73,45.651 39.972,43.407 39.972,40.651 L39.972,14.633 L35.972,18.523 L35.972,40.651 Z" id="Path" style="mix-blend-mode: color-burn;"></path>
         </g>
     </g>
 </svg>

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="30px" height="50px" viewBox="0 0 30 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>pause_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="pause_fill" transform="translate(0.000000, 6.000000)" fill="#000000">
-            <rect id="Rectangle-91" x="0" y="0" width="10" height="38"></rect>
-            <rect id="Rectangle-91-Copy" x="20" y="0" width="10" height="38"></rect>
+        <g id="pause_fill" transform="translate(14.000000, 9.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M2,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,36 C12,37.1045695 11.1045695,38 10,38 L2,38 C0.8954305,38 1.3527075e-16,37.1045695 0,36 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Path"></path>
+            <path d="M18,0 L26,0 C27.1045695,-2.02906125e-16 28,0.8954305 28,2 L28,36 C28,37.1045695 27.1045695,38 26,38 L18,38 C16.8954305,38 16,37.1045695 16,36 L16,2 C16,0.8954305 16.8954305,2.02906125e-16 18,0 Z" id="Path"></path>
         </g>
     </g>
 </svg>

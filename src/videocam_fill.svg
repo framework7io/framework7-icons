@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="59px" height="50px" viewBox="0 0 59 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>videocam_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="videocam_fill" transform="translate(0.000000, 7.000000)" fill="#000000">
-            <path d="M0,6.00532266 C0,2.68867454 2.68868299,0 5.99770599,0 L34.502294,0 C37.8147356,0 40.5,2.67643992 40.5,6.00532266 L40.5,29.9946773 C40.5,33.3113255 37.811317,36 34.502294,36 L5.99770599,36 C2.68526444,36 0,33.3235601 0,29.9946773 L0,6.00532266 Z" id="Combined-Shape"></path>
-            <path d="M56.1271248,3.75461071 C57.2730975,3.09347258 58.5,3.78797887 58.5,5.11358914 L58.5,31.1205195 C58.5,32.4524331 57.2714046,33.1396594 56.1271248,32.4794979 L44.8734303,25.9869819 C44.0811899,25.5299201 43.5,24.5290137 43.5,23.618552 L43.5,12.6155566 C43.5,11.7059922 44.0826516,10.7033453 44.8734303,10.2471267 L56.1271248,3.75461071 Z" id="Path-21"></path>
+        <g id="videocam_fill" transform="translate(8.000000, 16.000000)" fill="#000000">
+            <rect id="Rectangle" x="0" y="0" width="28" height="24" rx="4"></rect>
+            <path d="M30.7506099,7.39951208 L36.7506099,2.59951208 C37.6131338,1.90949298 38.8717185,2.04933573 39.5617376,2.9118596 C39.8454385,3.2664857 40,3.7071067 40,4.16124969 L40,19.8387503 C40,20.9433198 39.1045695,21.8387503 38,21.8387503 C37.545857,21.8387503 37.105236,21.6841888 36.7506099,21.4004879 L30.7506099,16.6004879 C30.2761794,16.2209436 30,15.6463177 30,15.0387503 L30,8.96124969 C30,8.35368225 30.2761794,7.77905645 30.7506099,7.39951208 Z" id="Rectangle"></path>
         </g>
     </g>
 </svg>

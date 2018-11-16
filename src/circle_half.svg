@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>circle_half</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="circle_half" fill="#000000">
-            <path d="M48,25 C48,12.2974508 37.7025492,2 25,2 C12.2974508,2 2,12.2974508 2,25 C2,37.7025492 12.2974508,48 25,48 C37.7025492,48 48,37.7025492 48,25 Z M0,25 C0,11.1928813 11.1928813,0 25,0 C38.8071187,0 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 0,38.8071187 0,25 Z" id="Oval-50"></path>
-            <path d="M25,50 L25,50 C38.8071187,50 50,38.8071187 50,25 C50,11.1928813 38.8071187,0 25,0" id="Oval-50"></path>
+            <path d="M28,56 L28,0 C12.536027,0 0,12.536027 0,28 C0,43.463973 12.536027,56 28,56 Z" id="Oval-79"></path>
+            <path d="M28,52 C41.254834,52 52,41.254834 52,28 C52,14.745166 41.254834,4 28,4 C14.745166,4 4,14.745166 4,28 C4,41.254834 14.745166,52 28,52 Z M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z" id="Oval-79" fill-rule="nonzero"></path>
         </g>
     </g>
 </svg>

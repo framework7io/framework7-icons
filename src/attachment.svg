@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>attachment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="attachment" transform="translate(16.000000, 4.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M18,9 L18,36 C18,39.3137085 15.3137085,42 12,42 C8.6862915,42 6,39.3137085 6,36 L6,20.5 C6,19.6715729 6.67157288,19 7.5,19 C8.32842712,19 9,19.6715729 9,20.5 L9,36 C9,37.6568542 10.3431458,39 12,39 C13.6568542,39 15,37.6568542 15,36 L15,9 C15,5.6862915 12.3137085,3 9,3 C5.6862915,3 3,5.6862915 3,9 L3,36 C3,40.9705627 7.02943725,45 12,45 C16.9705627,45 21,40.9705627 21,36 L21,16.5 C21,15.6715729 21.6715729,15 22.5,15 C23.3284271,15 24,15.6715729 24,16.5 L24,36 C24,42.627417 18.627417,48 12,48 C5.372583,48 0,42.627417 0,36 L0,9 C0,4.02943725 4.02943725,8.8817842e-16 9,0 C13.9705627,-8.8817842e-16 18,4.02943725 18,9 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

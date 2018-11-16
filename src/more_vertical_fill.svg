@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="50px" viewBox="0 0 10 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>more_vertical_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="more_vertical_fill" transform="translate(0.000000, 2.000000)" fill="#000000">
-            <g id="Group-9" transform="translate(5.000000, 23.000000) rotate(-270.000000) translate(-5.000000, -23.000000) translate(-18.000000, 18.000000)">
-                <circle id="Oval-71" cx="5" cy="5" r="5"></circle>
-                <circle id="Oval-71-Copy" cx="23" cy="5" r="5"></circle>
-                <circle id="Oval-71-Copy-2" cx="41" cy="5" r="5"></circle>
-            </g>
+        <g id="more_vertical_fill" transform="translate(24.000000, 12.000000)" fill="#000000">
+            <circle id="Oval-71" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-71-Copy" cx="4" cy="16" r="4"></circle>
+            <circle id="Oval-71-Copy-2" cx="4" cy="28" r="4"></circle>
         </g>
     </g>
 </svg>

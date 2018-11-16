@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>info_round</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info_round" fill="#000000">
+            <circle id="Oval-35" cx="28" cy="16" r="4"></circle>
+            <path d="M28,24 C29.1045695,24 30,24.8954305 30,26 L30,42 C30,43.1045695 29.1045695,44 28,44 C26.8954305,44 26,43.1045695 26,42 L26,26 C26,24.8954305 26.8954305,24 28,24 Z" id="Rectangle-65"></path>
+            <path d="M28,52 C41.254834,52 52,41.254834 52,28 C52,14.745166 41.254834,4 28,4 C14.745166,4 4,14.745166 4,28 C4,41.254834 14.745166,52 28,52 Z M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z" id="Oval-50" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

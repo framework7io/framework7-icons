@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="22px" height="50px" viewBox="0 0 22 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>volume_mute_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="volume_mute_fill" transform="translate(0.000000, 10.000000)" fill="#000000">
-            <path d="M8.89990234,7.60327502 L1.9973917,7.60327502 C0.895857811,7.60327502 0,8.50252462 0,9.61180522 L0,17.5947448 C0,18.7013247 0.894262725,19.603275 1.9973917,19.603275 L8.89990234,19.603275 L21.0768318,28.033457 C21.5248575,28.3436286 21.8999023,28.1563452 21.8999023,27.6050294 L21.8999023,0.601520663 C21.8999023,0.0587957702 21.5180163,-0.161718195 21.046936,0.128177365 L8.89990234,7.60327502 L8.89990234,7.60327502 Z" id="Combined-Shape"></path>
+        <g id="volume_mute_fill" transform="translate(17.000000, 14.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M8.89990234,7.7502849 L20.451061,0.164250244 C20.9126951,-0.138920386 21.5326918,-0.0104603866 21.8358624,0.451173683 C21.9429452,0.614227326 22,0.805040323 22,1.00011267 L22,27.1990488 C22,27.7513335 21.5522847,28.1990488 21,28.1990488 C20.7908959,28.1990488 20.5870523,28.1334998 20.4171401,28.0116215 L8.89990234,19.7502849 L1.9973917,19.7502849 C0.894262725,19.7502849 0,18.8483345 0,17.7417547 L0,9.7588151 C0,8.6495345 0.895857811,7.7502849 1.9973917,7.7502849 L8.89990234,7.7502849 Z" id="Path"></path>
         </g>
     </g>
 </svg>

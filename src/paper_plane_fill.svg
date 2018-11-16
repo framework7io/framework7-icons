@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>paper_plane_fill</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="paper_plane_fill" fill="#000000">
-            <path d="M44.8245745,1.61047864 L25.2874868,45 L18.1352363,28.9228638 L44.8245745,1.61047864 Z M16.6846906,27.5456416 L0,20.0532074 L43.4295494,0.176439773 L16.6846906,27.5456416 Z" id="Combined-Shape"></path>
+        <g id="paper_plane_fill" transform="translate(7.000000, 7.000000)" fill="#000000">
+            <path d="M41.5910484,3.34999172 L24.9300758,40.3520074 C24.0228989,42.3667381 22.563008,42.3714855 21.6619448,40.3460367 L16.457782,28.6478958 L41.5910484,3.34999172 Z M13.4560299,25.9938987 L1.65252376,20.6934113 C-0.364709411,19.7875517 -0.362835646,18.3039126 1.62874616,17.3924086 L38.9894484,0.293221338 L13.4560299,25.9938987 Z" id="Shape"></path>
         </g>
     </g>
 </svg>

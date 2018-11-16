@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>today</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="today" fill="#000000">
-            <path d="M0,4.00180999 C0,1.79167136 1.79309123,0 4.00180999,0 L39.99819,0 C42.2083286,0 44,1.79309123 44,4.00180999 L44,39.99819 C44,42.2083286 42.2069088,44 39.99819,44 L4.00180999,44 C1.79167136,44 0,42.2069088 0,39.99819 L0,4.00180999 Z M2,11.0022853 C2,9.89645368 2.89153983,9 3.99729162,9 L40.0027084,9 C41.1057821,9 42,9.89978493 42,11.0022853 L42,39.9977147 C42,41.1035463 41.1084602,42 40.0027084,42 L3.99729162,42 C2.89421792,42 2,41.1002151 2,39.9977147 L2,11.0022853 Z" id="Combined-Shape"></path>
-            <circle id="Oval-7" cx="29.5" cy="25.5" r="3.5"></circle>
-            <circle id="Oval-7" cx="22.5" cy="25.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="36.5" cy="25.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="22.5" cy="34.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="29.5" cy="34.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="29.5" cy="16.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="36.5" cy="16.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="15.5" cy="25.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="15.5" cy="34.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="22.5" cy="16.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="8.5" cy="25.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="8.5" cy="34.5" r="1.5"></circle>
-            <circle id="Oval-7" cx="15.5" cy="16.5" r="1.5"></circle>
+        <g id="today" transform="translate(10.000000, 6.000000)" fill="#000000">
+            <path d="M4,0 L32,0 C34.209139,-4.05812251e-16 36,1.790861 36,4 L36,40 C36,42.209139 34.209139,44 32,44 L4,44 C1.790861,44 2.705415e-16,42.209139 0,40 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z M6,4 C4.8954305,4 4,4.8954305 4,6 L4,38 C4,39.1045695 4.8954305,40 6,40 L30,40 C31.1045695,40 32,39.1045695 32,38 L32,6 C32,4.8954305 31.1045695,4 30,4 L6,4 Z" id="Shape"></path>
+            <rect id="Rectangle" x="6" y="14" width="24" height="24" rx="2"></rect>
+            <path d="M8,6 L16,6 C17.1045695,6 18,6.8954305 18,8 C18,9.1045695 17.1045695,10 16,10 L8,10 C6.8954305,10 6,9.1045695 6,8 C6,6.8954305 6.8954305,6 8,6 Z" id="Rectangle"></path>
         </g>
     </g>
 </svg>

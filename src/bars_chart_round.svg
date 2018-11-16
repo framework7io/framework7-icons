@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>bars_chart_round</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bars_chart_round" fill="#000000">
+            <path d="M28,52 C41.254834,52 52,41.254834 52,28 C52,14.745166 41.254834,4 28,4 C14.745166,4 4,14.745166 4,28 C4,41.254834 14.745166,52 28,52 Z M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z" id="Oval" fill-rule="nonzero"></path>
+            <path d="M18,22 L20,22 C21.1045695,22 22,22.8954305 22,24 L22,38 C22,39.1045695 21.1045695,40 20,40 L18,40 C16.8954305,40 16,39.1045695 16,38 L16,24 C16,22.8954305 16.8954305,22 18,22 Z" id="Rectangle"></path>
+            <path d="M27,16 L29,16 C30.1045695,16 31,16.8954305 31,18 L31,38 C31,39.1045695 30.1045695,40 29,40 L27,40 C25.8954305,40 25,39.1045695 25,38 L25,18 C25,16.8954305 25.8954305,16 27,16 Z" id="Rectangle-Copy-15"></path>
+            <path d="M36,28 L38,28 C39.1045695,28 40,28.8954305 40,30 L40,38 C40,39.1045695 39.1045695,40 38,40 L36,40 C34.8954305,40 34,39.1045695 34,38 L34,30 C34,28.8954305 34.8954305,28 36,28 Z" id="Rectangle-Copy-16"></path>
+        </g>
+    </g>
+</svg>

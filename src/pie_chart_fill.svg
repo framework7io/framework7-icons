@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>pie_chart_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pie_chart_fill" fill="#000000">
+            <path d="M30,28 L30,0.0703281021 C44.5305512,1.09582109 56,13.2084939 56,28 C56,43.463973 43.463973,56 28,56 C18.3502474,56 9.84062182,51.1185357 4.80577422,43.6902581 L28.9994449,29.7323712 C29.6185599,29.3751895 30,28.7147602 30,28 Z" id="Path"></path>
+            <path d="M0,28 C0,13.2084939 11.4694488,1.09582109 26,0.0703281021 L26,25.6897443 C26,26.4045045 25.6185599,27.0649338 24.9994449,27.4221155 L2.80377169,40.2273116 C1.00756771,36.5328254 0,32.3840777 0,28 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
     <title>add_round</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="add_round" transform="translate(-0.000000, 0.000000)" fill="#000000">
-            <path d="M42,22 C42,10.954305 33.045695,2 22,2 C10.954305,2 2,10.954305 2,22 C2,33.045695 10.954305,42 22,42 C33.045695,42 42,33.045695 42,22 Z M0,22 C0,9.8497355 9.8497355,0 22,0 C34.1502645,0 44,9.8497355 44,22 C44,34.1502645 34.1502645,44 22,44 C9.8497355,44 0,34.1502645 0,22 Z" id="Oval-33"></path>
-            <polygon id="Rectangle-26" points="23 11 21 11 21 21 11 21 11 23 21 23 21 33 23 33 23 23 33 23 33 21 23 21"></polygon>
+        <g id="add_round" fill="#000000">
+            <path d="M28,52 C41.254834,52 52,41.254834 52,28 C52,14.745166 41.254834,4 28,4 C14.745166,4 4,14.745166 4,28 C4,41.254834 14.745166,52 28,52 Z M28,56 C12.536027,56 0,43.463973 0,28 C0,12.536027 12.536027,0 28,0 C43.463973,0 56,12.536027 56,28 C56,43.463973 43.463973,56 28,56 Z" id="Oval-16" fill-rule="nonzero"></path>
+            <path d="M30,26 L42,26 C43.1045695,26 44,26.8954305 44,28 C44,29.1045695 43.1045695,30 42,30 L30,30 L30,42 C30,43.1045695 29.1045695,44 28,44 C26.8954305,44 26,43.1045695 26,42 L26,30 L14,30 C12.8954305,30 12,29.1045695 12,28 C12,26.8954305 12.8954305,26 14,26 L26,26 L26,14 C26,12.8954305 26.8954305,12 28,12 C29.1045695,12 30,12.8954305 30,14 L30,26 Z" id="Path"></path>
         </g>
     </g>
 </svg>
