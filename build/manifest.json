@@ -32,25 +32,25 @@
       "name": "arrow_down"
     },
     {
-      "name": "arrow_down_fill"
+      "name": "arrow_down_round_fill"
     },
     {
       "name": "arrow_left"
     },
     {
-      "name": "arrow_left_fill"
+      "name": "arrow_left_round_fill"
     },
     {
       "name": "arrow_right"
     },
     {
-      "name": "arrow_right_fill"
+      "name": "arrow_right_round_fill"
     },
     {
       "name": "arrow_up"
     },
     {
-      "name": "arrow_up_fill"
+      "name": "arrow_up_round_fill"
     },
     {
       "name": "at"
@@ -218,7 +218,7 @@
       "name": "chevron_down_round"
     },
     {
-      "name": "chevron_down_round copy"
+      "name": "chevron_down_round_fill"
     },
     {
       "name": "chevron_left"
@@ -227,7 +227,7 @@
       "name": "chevron_left_round"
     },
     {
-      "name": "chevron_left_round copy"
+      "name": "chevron_left_round_fill"
     },
     {
       "name": "chevron_right"
@@ -236,7 +236,7 @@
       "name": "chevron_right_round"
     },
     {
-      "name": "chevron_right_round copy"
+      "name": "chevron_right_round_fill"
     },
     {
       "name": "chevron_up"
@@ -245,7 +245,7 @@
       "name": "chevron_up_round"
     },
     {
-      "name": "chevron_up_round copy"
+      "name": "chevron_up_round_fill"
     },
     {
       "name": "circle"
