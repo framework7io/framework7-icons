@@ -452,6 +452,12 @@
       "name": "filter"
     },
     {
+      "name": "fire"
+    },
+    {
+      "name": "fire_fill"
+    },
+    {
       "name": "flag"
     },
     {
@@ -912,6 +918,12 @@
     },
     {
       "name": "tape_fill"
+    },
+    {
+      "name": "thumbs_down"
+    },
+    {
+      "name": "thumbs_up"
     },
     {
       "name": "ticket"
