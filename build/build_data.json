@@ -323,6 +323,9 @@
       "name": "delete_round_fill"
     },
     {
+      "name": "desktop"
+    },
+    {
       "name": "document"
     },
     {
@@ -500,6 +503,12 @@
       "name": "graph_square_fill"
     },
     {
+      "name": "hand"
+    },
+    {
+      "name": "hand_alt"
+    },
+    {
       "name": "heart"
     },
     {
@@ -545,6 +554,9 @@
       "name": "keyboard_fill"
     },
     {
+      "name": "laptop"
+    },
+    {
       "name": "layers"
     },
     {
@@ -578,10 +590,25 @@
       "name": "lock_fill"
     },
     {
+      "name": "logo_android"
+    },
+    {
+      "name": "logo_android_text"
+    },
+    {
+      "name": "logo_apple"
+    },
+    {
       "name": "logo_facebook"
     },
     {
       "name": "logo_github"
+    },
+    {
+      "name": "logo_google"
+    },
+    {
+      "name": "logo_google_text"
     },
     {
       "name": "logo_googleplus"
@@ -590,13 +617,25 @@
       "name": "logo_instagram"
     },
     {
+      "name": "logo_ios"
+    },
+    {
       "name": "logo_linkedin"
+    },
+    {
+      "name": "logo_macos"
+    },
+    {
+      "name": "logo_microsoft"
     },
     {
       "name": "logo_rss"
     },
     {
       "name": "logo_twitter"
+    },
+    {
+      "name": "logo_windows"
     },
     {
       "name": "menu"
@@ -744,6 +783,12 @@
     },
     {
       "name": "phone_fill"
+    },
+    {
+      "name": "phone_landscape"
+    },
+    {
+      "name": "phone_portrait"
     },
     {
       "name": "phone_round"
@@ -894,6 +939,12 @@
     },
     {
       "name": "stopwatch_fill"
+    },
+    {
+      "name": "tablet_landscape"
+    },
+    {
+      "name": "tablet_portrait"
     },
     {
       "name": "tabs"
