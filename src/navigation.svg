@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
-    <title>navigation</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="navigation" transform="translate(5.000000, 5.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M15.2448479,18.9996 L26.998,18.9996 L26.998,30.761709 L38.2425561,7.75729811 L15.2448479,18.9996 Z M45,0.0016 L45.998,0.0016 L45.998,0.9996 L24.002,45.9996 L22.998,45.9996 L22.998,22.9996 L0,22.9996 L0,21.9996 L45,0.0016 Z" id="location"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <path d="M15.2448479,18.9996 L26.998,18.9996 L26.998,30.761709 L38.2425561,7.75729811 L15.2448479,18.9996 Z M45,0.0016 L45.998,0.0016 L45.998,0.9996 L24.002,45.9996 L22.998,45.9996 L22.998,22.9996 L0,22.9996 L0,21.9996 L45,0.0016 Z" transform="translate(5 5)"/>
 </svg>

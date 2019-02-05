@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
-    <title>navigation_fill</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="navigation_fill" transform="translate(5.000000, 5.000000)" fill="#000000">
-            <polygon id="location" style="mix-blend-mode: color-burn;" points="45 0.0016 0 21.9996 0 22.9996 22.998 22.9996 22.998 45.9996 24.002 45.9996 45.998 0.9996 45.998 0.0016"></polygon>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <polygon fill-rule="evenodd" points="45 .002 0 22 0 23 22.998 23 22.998 46 24.002 46 45.998 1 45.998 .002" transform="translate(5 5)" style="mix-blend-mode:color-burn"/>
 </svg>
