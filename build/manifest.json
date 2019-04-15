@@ -428,6 +428,9 @@
       "name": "exit_round_fill"
     },
     {
+      "name": "expand"
+    },
+    {
       "name": "eye"
     },
     {
@@ -752,6 +755,9 @@
       "name": "more_vertical_round_fill"
     },
     {
+      "name": "move"
+    },
+    {
       "name": "navigation"
     },
     {
@@ -900,6 +906,15 @@
     },
     {
       "name": "reply_fill"
+    },
+    {
+      "name": "resize"
+    },
+    {
+      "name": "resize_h"
+    },
+    {
+      "name": "resize_v"
     },
     {
       "name": "rewind"
