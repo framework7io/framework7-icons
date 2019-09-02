@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
-  <g fill-rule="evenodd" transform="translate(3 3)">
-    <circle cx="8" cy="42" r="8"/>
-    <path fill-rule="nonzero" d="M50,50 L42,50 C42,26.8040405 23.1959595,8 0,8 L0,0 C27.6142375,0 50,22.3857625 50,50 Z"/>
-    <path fill-rule="nonzero" d="M35,50 L27,50 C27,35.0883118 14.9116882,23 0,23 L0,15 C19.3299662,15 35,30.6700338 35,50 Z"/>
-  </g>
-</svg>

@@ -99,6 +99,26 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
           c = "hyphen"
         if (c == ' '):
           c = "space"
+        if (c == '1'):
+          c = "one"
+        if (c == '2'):
+          c = "two"
+        if (c == '3'):
+          c = "three"
+        if (c == '4'):
+          c = "four"
+        if (c == '5'):
+          c = "five"
+        if (c == '6'):
+          c = "six"
+        if (c == '7'):
+          c = "seven"
+        if (c == '8'):
+          c = "eight"
+        if (c == '9'):
+          c = "nine"
+        if (c == '0'):
+          c = "zero"
         ligature.append(c)
       glyph.addPosSub('ligatable1', ligature)
 
