@@ -85,7 +85,7 @@ import 'framework7-icons';
 
 You can use [framework7.io](http://framework7.io) or included `cheatsheet.html` file to easily find the icon you want to use. It’s easy to incorporate icons into your web page. Here’s a small example:
 ```html
-<i class="f7-icons">home</i>
+<i class="f7-icons">house</i>
 ```
 
 This example uses a typographic feature called [ligatures](http://alistapart.com/article/the-era-of-symbol-fonts), which allows rendering of an icon glyph simply by using its textual name. The replacement is done automatically by the web browser and provides more readable code than the equivalent numeric character reference.
@@ -104,10 +104,10 @@ Framework7 Icons look best at 28px, but if an icon needs to be displayed in an a
 ```
 
 ```html
-<i class="f7-icons size-14">home</i>
-<i class="f7-icons size-28">home</i>
-<i class="f7-icons size-32">home</i>
-<i class="f7-icons size-56">home</i>
+<i class="f7-icons size-14">house</i>
+<i class="f7-icons size-28">house</i>
+<i class="f7-icons size-32">house</i>
+<i class="f7-icons size-56">house</i>
 ```
 
 ### Coloring
@@ -120,8 +120,8 @@ Using the icon font allows for easy styling of an icon in any color.
 ```
 
 ```html
-<i class="f7-icons color-black">home</i>
-<i class="f7-icons color-white">home</i>
+<i class="f7-icons color-black">house</i>
+<i class="f7-icons color-white">house</i>
 ```
 
 ## Build Instructions
