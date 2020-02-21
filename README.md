@@ -124,6 +124,24 @@ Using the icon font allows for easy styling of an icon in any color.
 <i class="f7-icons color-white">house</i>
 ```
 
+## Using in `data-` attributes
+
+Add the following CSS rule:
+
+```css
+.f7-icons[data-icon]:before {
+    content: attr(data-icon);
+    color: inherit;
+}
+```
+
+And now you can use it with `data-` attributes:
+
+```html
+<i class="f7-icons" data-icon="house"></i>
+```
+
+
 ## Build Instructions
 
 This repo already comes with all the files built and ready to go, but can also build the fonts from the source. Requires Python, FontForge and woff2:
