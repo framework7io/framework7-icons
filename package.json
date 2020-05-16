@@ -26,10 +26,11 @@
     "node": ">= 0.10.0"
   },
   "scripts": {
-    "build": "python ./build/generate.py && node ./build/copy-svg.js",
+    "build": "python ./build/generate.py && ttf2woff ./fonts/Framework7Icons-Regular.ttf ./fonts/Framework7Icons-Regular.woff && node ./build/copy-svg.js",
     "start": "http-server ./ -o -c 1 -a localhost"
   },
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "ttf2woff": "^2.0.1"
   }
 }
