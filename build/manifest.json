@@ -518,9 +518,6 @@
       "name": "at"
     },
     {
-      "name": "at"
-    },
-    {
       "name": "at_badge_minus"
     },
     {
@@ -2076,6 +2073,9 @@
     },
     {
       "name": "logo_rss"
+    },
+    {
+      "name": "logo_stackoverflow"
     },
     {
       "name": "logo_twitter"
