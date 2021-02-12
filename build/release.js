@@ -35,7 +35,7 @@ async function release() {
   await exec.promise('git push origin --tags');
 
   // eslint-disable-next-line
-  await exec.promise('cd ./package && npm publish');
+  // await exec.promise('cd ./package && npm publish');
 }
 
 release();

@@ -1,6 +1,6 @@
 {
   "name": "framework7-icons",
-  "version": "3.0.1",
+  "version": "4.0.0-beta.1",
   "description": "Free iOS-icons font for Framework7",
   "main": "css/framework7-icons.css",
   "repository": {
@@ -27,6 +27,7 @@
   },
   "scripts": {
     "build": "node ./build/build",
+    "release": "node ./build/release",
     "start": "http-server ./ -o -c 1 -a localhost"
   },
   "devDependencies": {
