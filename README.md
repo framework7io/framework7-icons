@@ -203,7 +203,7 @@ In Vue:
 </template>
 
 <script>
-  import { House, HeartCircle } from 'framework7-icons/svelte';
+  import { House, HeartCircle } from 'framework7-icons/vue';
 
   export default {
     components: {
