@@ -71,14 +71,10 @@ const buildReact = async () => {
   await exec(
     `MODULES=cjs npx babel --config-file ./build/babel-react.config.js package/react/esm --out-dir package/react/cjs --ignore "*.ts","*.json"`,
   );
-  await exec(
-    `MODULES=cjs npx babel --config-file ./build/babel-react.config.js package/react/framework7-icons-react.esm.js --out-file package/react/framework7-icons-react.cjs.js`,
-  );
-  const cjsContent = fs.readFileSync('package/react/framework7-icons-react.cjs.js', 'utf-8');
-  fs.writeFileSync(
-    'package/react/framework7-icons-react.cjs.js',
-    cjsContent.replace(/esm/g, 'cjs'),
-  );
+  const cjsContent = components
+    .map(({ name }) => `exports.${name} = require('./cjs/${name}.js').default;`)
+    .join('\n');
+  fs.writeFileSync('package/react/framework7-icons-react.cjs.js', cjsContent);
 
   await exec(
     `MODULES=esm npx babel --config-file ./build/babel-react.config.js package/react/esm --out-dir package/react/esm --ignore "*.ts"`,

@@ -1,5 +1,3 @@
-<a href="https://www.patreon.com/vladimirkharlampidi"><img src="https://framework7.io/i/support-badge.png" height="20"></a>
-
 # Framework7 Icons
 
 The premium and free iOS-icons font for [Framework7](https://framework7.io/).
@@ -214,26 +212,6 @@ In Vue:
     ...
   }
 </script>
-
-## Build Instructions
-
-This repo already comes with all the files built and ready to go, but can also build the fonts from the source. Requires Python, FontForge and woff2:
-
-1. Install FontForge, which is the program that creates the font files from the SVG files:
-
-   $ brew install fontforge ttfautohint
-
-2. Install woff2
-
-   $ git clone --recursive https://github.com/google/woff2.git
-   $ cd woff2
-   $ make clean all
-
-3. Add or subtract files from the `src/` folder you'd like to be apart of the font files.
-
-4. Run the build command:
-
-   python ./build/generate.py
 
 ## License
 
