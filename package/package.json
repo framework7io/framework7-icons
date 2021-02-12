@@ -1,0 +1,28 @@
+{
+  "name": "framework7-icons",
+  "version": "3.0.1",
+  "description": "Free iOS-icons font for Framework7",
+  "main": "css/framework7-icons.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/framework7io/framework7-icons.git"
+  },
+  "keywords": [
+    "fonts",
+    "icon font",
+    "icons",
+    "framework7",
+    "web font",
+    "ios",
+    "ios icons"
+  ],
+  "author": "Vladimir Kharlampidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/framework7io/framework7-icons/issues"
+  },
+  "homepage": "https://framework7.io/icons/",
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}

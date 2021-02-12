@@ -6,7 +6,6 @@
 
 import fontforge
 import os
-import md5
 import subprocess
 import tempfile
 import json
@@ -15,14 +14,12 @@ import copy
 SCRIPT_PATH = os.path.dirname(os.path.abspath(__file__))
 BLANK_PATH = os.path.join(SCRIPT_PATH, '..', 'blank.svg')
 INPUT_SVG_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'src')
-OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'fonts')
+OUTPUT_FONT_DIR = os.path.join(SCRIPT_PATH, '..', '..', 'package/fonts')
 MANIFEST_PATH = os.path.join(SCRIPT_PATH, '..', 'manifest.json')
 PACKAGE_PATH = os.path.join(SCRIPT_PATH, '..', '..', 'package.json')
 BUILD_DATA_PATH = os.path.join(SCRIPT_PATH, '..', 'build_data.json')
 AUTO_WIDTH = False
 KERNING = 15
-
-m = md5.new()
 
 f = fontforge.font()
 f.encoding = 'UnicodeFull'
@@ -53,7 +50,6 @@ build_data = copy.deepcopy(manifest_data)
 build_data['icons'] = []
 
 font_name = manifest_data['name']
-m.update(font_name + ';')
 
 for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
   for filename in filenames:
@@ -76,16 +72,15 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
         # replace the <switch> </switch> tags with 'nothing'
         svgtext = svgtext.replace('<switch>', '')
         svgtext = svgtext.replace('</switch>', '')
-
-        tmpsvgfile.file.write(svgtext)
+        
+        bytes = svgtext.encode(encoding='UTF-8')
+        tmpsvgfile.file.write(bytes)
 
         svgfile.close()
         tmpsvgfile.file.close()
 
         filePath = tmpsvgfile.name
         # end hack
-
-      m.update(name + str(size) + ';')
 
       glyph = f.createChar(-1, name)
       glyph.importOutlines(filePath)
@@ -139,8 +134,6 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
 
   fontfile = '%s/Framework7Icons-Regular' % (OUTPUT_FONT_DIR)
 
-build_hash = m.hexdigest()
-
 f.fontname = font_name
 f.familyname = font_name
 f.fullname = font_name
@@ -161,12 +154,12 @@ subprocess.call('woff2_compress ' + fontfile + '.ttf', shell=True)
 manifest_data['icons'] = sorted(build_data['icons'], key=lambda k: k['name'])
 build_data['icons'] = sorted(build_data['icons'], key=lambda k: k['name'])
 
-print "Save Manifest, Icons: %s" % ( len(manifest_data['icons']) )
+print ("Save Manifest, Icons: %s" % ( len(manifest_data['icons']) ))
 f = open(MANIFEST_PATH, 'w')
 f.write( json.dumps(manifest_data, indent=2, separators=(',', ': ')) )
 f.close()
 
-print "Save Build, Icons: %s" % ( len(build_data['icons']) )
+print ("Save Build, Icons: %s" % ( len(build_data['icons']) ))
 f = open(BUILD_DATA_PATH, 'w')
 f.write( json.dumps(build_data, indent=2, separators=(',', ': ')) )
 f.close()

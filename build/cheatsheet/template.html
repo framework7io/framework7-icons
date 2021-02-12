@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <title>{{font_name}} v{{font_version}} Cheatsheet</title>
-  <link href="../css/framework7-icons.css" rel="stylesheet" type="text/css" />
+  <link href="../package/css/framework7-icons.css" rel="stylesheet" type="text/css" />
   <style>
     {
       -moz-box-sizing: border-box;
@@ -17,12 +18,14 @@
       -ms-user-select: none;
       user-select: none;
     }
+
     body {
       background: #fff;
       color: #333;
       font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
       margin: 0;
     }
+
     header {
       text-align: center;
       border-bottom: 1px solid #eee;
@@ -30,24 +33,30 @@
       overflow: hidden;
       padding: 20px 0;
     }
+
     header h1 {
       font-size: 21px;
       font-weight: 400;
     }
+
     .center {
       margin-left: auto;
       margin-right: auto;
       max-width: 960px;
     }
+
     .icons {
       overflow: hidden;
     }
+
     .content .icon-cell .f7-icons {
       cursor: pointer;
     }
+
     .content {
       padding-bottom: 250px;
     }
+
     .icons .icon-cell {
       float: left;
       width: calc(100% / 7);
@@ -55,6 +64,7 @@
       height: 100px;
       margin-top: 30px;
     }
+
     .icons .icon-name,
     .icons .icon-size {
       display: block;
@@ -63,29 +73,37 @@
       margin-top: 10px;
       word-break: break-all;
     }
+
     .f7-icons.size-14 {
       font-size: 14px;
     }
+
     .f7-icons.size-20 {
       font-size: 20px;
     }
+
     .f7-icons.size-24 {
       font-size: 24px;
     }
+
     .f7-icons.size-28 {
       font-size: 28px;
     }
+
     .f7-icons.size-32 {
       font-size: 32px;
     }
+
     .f7-icons.size-56 {
       font-size: 56px;
     }
+
     .f7-icons.size-112 {
       font-size: 112px;
     }
+
     .icon-preview {
-      box-shadow: 0px -10px 20px rgba(0,0,0,0.3);
+      box-shadow: 0px -10px 20px rgba(0, 0, 0, 0.3);
       background: #fff;
       position: fixed;
       bottom: 0;
@@ -95,6 +113,7 @@
       width: 960px;
       display: none;
     }
+
     @media (max-width: 960px) {
       .icon-preview {
         left: 0;
@@ -102,10 +121,12 @@
         margin-left: 0;
       }
     }
+
     .icon-preview .icons {
       font-size: 0;
       padding-bottom: 10px;
     }
+
     .icon-preview .icon-cell {
       float: none;
       display: inline-block;
@@ -113,6 +134,7 @@
       vertical-align: bottom;
       height: auto;
     }
+
     .icon-preview .icon-preview-name {
       font-size: 18px;
       padding: 10px;
@@ -182,4 +204,5 @@
     }
   </script>
 </body>
+
 </html>

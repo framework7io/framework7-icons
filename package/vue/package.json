@@ -1,0 +1,8 @@
+{
+  "name": "framework7-icons-vue",
+  "private": true,
+  "main": "./framework7-icons-vue.js",
+  "jsnext:main": "./framework7-icons-vue.js",
+  "module": "../framework7-icons-vue.js",
+  "sideEffects": false
+}

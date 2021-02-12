@@ -5,7 +5,7 @@
   "main": "css/framework7-icons.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nolimits4web/Framework7-Icons.git"
+    "url": "https://github.com/framework7io/framework7-icons.git"
   },
   "keywords": [
     "fonts",
@@ -19,18 +19,24 @@
   "author": "Vladimir Kharlampidi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nolimits4web/Framework7-Icons/issues"
+    "url": "https://github.com/framework7io/framework7-icons/issues"
   },
-  "homepage": "http://framework7.io/icons/",
+  "homepage": "https://framework7.io/icons/",
   "engines": {
     "node": ">= 0.10.0"
   },
   "scripts": {
-    "build": "python ./build/generate.py && ttf2woff ./fonts/Framework7Icons-Regular.ttf ./fonts/Framework7Icons-Regular.woff && node ./build/copy-svg.js",
+    "build": "node ./build/build",
     "start": "http-server ./ -o -c 1 -a localhost"
   },
   "devDependencies": {
+    "@babel/cli": "^7.12.16",
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/preset-react": "^7.12.13",
+    "exec-sh": "^0.3.4",
     "http-server": "^0.11.1",
+    "inquirer": "^7.3.3",
     "ttf2woff": "^2.0.1"
   }
 }

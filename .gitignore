@@ -1,3 +1,11 @@
+.DS_Store
 .git
 npm-debug.log
 node_modules
+package/react/*.js
+package/react/esm/*.js
+package/react/cjs/*.js
+package/vue/*.js
+package/vue/vue/*.vue
+package/svelte/*.js
+package/svelte/svelte/*.svelte

@@ -1,0 +1,8 @@
+{
+  "name": "framework7-icons-svelte",
+  "private": true,
+  "main": "./framework7-icons-svelte.js",
+  "jsnext:main": "./framework7-icons-svelte.js",
+  "module": "../framework7-icons-svelte.js",
+  "sideEffects": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "framework7-icons-react",
+  "private": true,
+  "main": "./framework7-icons-react.cjs.js",
+  "jsnext:main": "./framework7-icons-react.esm.js",
+  "module": "../framework7-icons-react.esm.js",
+  "sideEffects": false
+}
