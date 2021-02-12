@@ -132,7 +132,7 @@ Using the icon font allows for easy styling of an icon in any color.
 ```
 
 ```html
-<i class="f7-icons color-black">house</i> <i class="f7-icons color-white">house</i>
+<i class="icon f7-icons color-black">house</i> <i class="icon f7-icons color-white">house</i>
 ```
 
 ## Using in `data-` attributes
