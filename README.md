@@ -201,7 +201,6 @@ In Vue:
     ...
   </div>
 </template>
-```
 
 <script>
   import { House, HeartCircle } from 'framewokr7-icons/svelte';
@@ -214,6 +213,7 @@ In Vue:
     ...
   }
 </script>
+```
 
 ## Build Instructions
 
