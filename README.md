@@ -159,7 +159,7 @@ Since v 4.0.0 there are pure SVG components available for React, Svelte and Vue.
 In React:
 
 ```jsx
-import { House, HeartCircle } from 'framewokr7-icons/react';
+import { House, HeartCircle } from 'framework7-icons/react';
 
 export default () {
   // ...
@@ -180,11 +180,11 @@ In Svelte:
   ...
   <House />
   ...
-  <HeartCircle>
+  <HeartCircle />
   ...
 </div>
 <script>
-  import { House, HeartCircle } from 'framewokr7-icons/svelte';
+  import { House, HeartCircle } from 'framework7-icons/svelte';
   // ...
 </script>
 ```
@@ -203,7 +203,7 @@ In Vue:
 </template>
 
 <script>
-  import { House, HeartCircle } from 'framewokr7-icons/svelte';
+  import { House, HeartCircle } from 'framework7-icons/svelte';
 
   export default {
     components: {
