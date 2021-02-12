@@ -167,7 +167,7 @@ export default () {
     <div>
       <House />
       ...
-      <HeartCircle>
+      <HeartCircle />
     </div>
   )
 }
