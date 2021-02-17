@@ -21,6 +21,7 @@ const buildVue = async () => {
     let content = fs
       .readFileSync(path.resolve(__dirname, '../package/svg', file), 'utf-8')
       .replace(/<svg ([^>]*)>/, (tag, attrs) => {
+        attrs = attrs.replace('width="56"', 'width="1em"').replace('height="56"', 'height="1em"');
         return `<svg fill="currentcolor" ${attrs}>`;
       });
 
