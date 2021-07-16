@@ -635,6 +635,24 @@
       "name": "bitcoin_circle_fill"
     },
     {
+      "name": "blinds_0"
+    },
+    {
+      "name": "blinds_1"
+    },
+    {
+      "name": "blinds_2"
+    },
+    {
+      "name": "blinds_3"
+    },
+    {
+      "name": "blinds_4"
+    },
+    {
+      "name": "blinds_5"
+    },
+    {
       "name": "bold"
     },
     {
@@ -855,6 +873,33 @@
     },
     {
       "name": "cat"
+    },
+    {
+      "name": "ceiling_panel_lamp"
+    },
+    {
+      "name": "ceiling_panel_lamp_round"
+    },
+    {
+      "name": "ceiling_panel_lamp_square"
+    },
+    {
+      "name": "ceiling_spot"
+    },
+    {
+      "name": "ceiling_spot_fill"
+    },
+    {
+      "name": "ceiling_spots"
+    },
+    {
+      "name": "ceiling_spots_fill"
+    },
+    {
+      "name": "certified"
+    },
+    {
+      "name": "chair"
     },
     {
       "name": "chart_bar"
@@ -1190,6 +1235,9 @@
       "name": "control"
     },
     {
+      "name": "controller"
+    },
+    {
       "name": "creditcard"
     },
     {
@@ -1233,6 +1281,12 @@
     },
     {
       "name": "delete_right_fill"
+    },
+    {
+      "name": "deploy"
+    },
+    {
+      "name": "desktop_lamp"
     },
     {
       "name": "desktopcomputer"
@@ -1565,6 +1619,9 @@
       "name": "flame_fill"
     },
     {
+      "name": "floor_lamp"
+    },
+    {
       "name": "floppy_disk"
     },
     {
@@ -1775,6 +1832,9 @@
       "name": "guitars"
     },
     {
+      "name": "gym"
+    },
+    {
       "name": "hammer"
     },
     {
@@ -1943,6 +2003,12 @@
       "name": "leaf_arrow_circlepath"
     },
     {
+      "name": "led_light_strip"
+    },
+    {
+      "name": "led_light_strip_fill"
+    },
+    {
       "name": "lessthan"
     },
     {
@@ -2090,6 +2156,15 @@
       "name": "logo_apple"
     },
     {
+      "name": "logo_controlhome"
+    },
+    {
+      "name": "logo_controlhome_text"
+    },
+    {
+      "name": "logo_controlhome_with_text"
+    },
+    {
       "name": "logo_facebook"
     },
     {
@@ -2118,6 +2193,12 @@
     },
     {
       "name": "logo_microsoft"
+    },
+    {
+      "name": "logo_netflix"
+    },
+    {
+      "name": "logo_netflix_text"
     },
     {
       "name": "logo_rss"
@@ -2160,6 +2241,12 @@
     },
     {
       "name": "menu"
+    },
+    {
+      "name": "menu_angled_left"
+    },
+    {
+      "name": "menu_angled_right"
     },
     {
       "name": "metronome"
@@ -2334,6 +2421,9 @@
     },
     {
       "name": "number_square_fill"
+    },
+    {
+      "name": "office_chair"
     },
     {
       "name": "option"
@@ -3009,6 +3099,12 @@
     },
     {
       "name": "snow"
+    },
+    {
+      "name": "sofa"
+    },
+    {
+      "name": "sofa_fill"
     },
     {
       "name": "sort_down"
