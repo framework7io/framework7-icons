@@ -16,7 +16,6 @@ The font is developed to be used with [Framework7](https://framework7.io/), but 
      font-family: 'Framework7 Icons';
      font-style: normal;
      font-weight: 400;
-     src: url('../fonts/Framework7Icons-Regular.eot');
      src: local('Framework7 Icons'), local('Framework7Icons-Regular'),
        url('../fonts/Framework7Icons-Regular.woff2') format('woff2'), url('../fonts/Framework7Icons-Regular.woff')
          format('woff'), url('../fonts/Framework7Icons-Regular.ttf') format('truetype');
@@ -71,7 +70,7 @@ When using webpack, you must add loaders for css and fonts.
 
 ```js
 { test: /\.css/, loader: 'style-loader!css-loader' },
-{ test: /\.(woff|woff2|eot|ttf)$/, loader: 'url-loader?limit=100000' },
+{ test: /\.(woff|woff2|ttf)$/, loader: 'url-loader?limit=100000' },
 ```
 
 Then you can import the module like so:

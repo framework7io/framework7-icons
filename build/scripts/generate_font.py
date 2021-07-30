@@ -141,10 +141,6 @@ f.generate(fontfile + '.ttf')
 
 scriptPath = os.path.dirname(os.path.realpath(__file__))
 
-# eotlitetool.py script to generate IE7-compatible .eot fonts
-subprocess.call('python ' + scriptPath + '/eotlitetool.py ' + fontfile + '.ttf -o ' + fontfile + '.eot', shell=True)
-subprocess.call('mv ' + fontfile + '.eotlite ' + fontfile + '.eot', shell=True)
-
 # Hint the TTF file
 subprocess.call('ttfautohint -s -f -n ' + fontfile + '.ttf ' + fontfile + '-hinted.ttf > /dev/null 2>&1 && mv ' + fontfile + '-hinted.ttf ' + fontfile + '.ttf', shell=True)
 
