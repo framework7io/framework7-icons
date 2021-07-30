@@ -1,3 +1,9 @@
+## [5.0.1](https://github.com/framework7io/framework7-icons/compare/v5.0.0...v5.0.1) (2021-07-30)
+
+## Bug Fixes
+
+- ignore DS_Store
+
 ## [5.0.0](https://github.com/framework7io/framework7-icons/compare/v4.0.2...v5.0.0) (2021-07-30)
 
 ### New Icons
