@@ -1,3 +1,7 @@
+## [5.0.3](https://github.com/framework7io/framework7-icons/compare/v5.0.2...v5.0.3) (2021-07-30)
+
+- updated `videocam`, `videocam_fill`, `videocam_circle`, `videocam_circle_fill` icons
+
 ## [5.0.2](https://github.com/framework7io/framework7-icons/compare/v5.0.1...v5.0.2) (2021-07-30)
 
 ### Features
