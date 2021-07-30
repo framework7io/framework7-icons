@@ -1,3 +1,47 @@
+## [5.0.0](https://github.com/framework7io/framework7-icons/compare/v4.0.2...v5.0.0) (2021-07-30)
+
+### New Icons
+
+- `building`
+- `building_2`
+- `building_2_crop_circle`
+- `building_2_crop_circle_cill`
+- `building_columns`
+- `building_columns_fill`
+- `building_fill`
+- `checkmark_2`
+- `face_smiling`
+- `face_smiling-fill`
+- `facemask`
+- `facemask_fill`
+- `funnel`
+- `funnel_fill`
+- `giftcard`
+- `giftcard_fill`
+- `shippingbox`
+- `shippingbox_fill`
+- `signature`
+- `status`
+- `sticker`
+- `wallet`
+- `wallet_fill`
+
+### Renamed Icons
+
+- `color_filter` -> `camera_filters`
+
+### Removed Icons
+
+- `color_filter_fill`
+
+### Features
+
+- `.eot` font removed from the package
+
+## Bug Fixes
+
+- fixed `PersonAltCircle` react icon
+
 ## [4.0.2](https://github.com/framework7io/framework7-icons/compare/v4.0.1...v4.0.2) (2021-02-19)
 
 ### Bug Fixes

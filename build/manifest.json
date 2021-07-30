@@ -734,7 +734,28 @@
       "name": "bubble_right_fill"
     },
     {
+      "name": "building"
+    },
+    {
+      "name": "building_2"
+    },
+    {
+      "name": "building_2_crop_circle"
+    },
+    {
+      "name": "building_2_crop_circle_fill"
+    },
+    {
       "name": "building_2_fill"
+    },
+    {
+      "name": "building_columns"
+    },
+    {
+      "name": "building_columns_fill"
+    },
+    {
+      "name": "building_fill"
     },
     {
       "name": "burn"
@@ -774,6 +795,9 @@
     },
     {
       "name": "camera_fill"
+    },
+    {
+      "name": "camera_filters"
     },
     {
       "name": "camera_on_rectangle"
@@ -879,6 +903,9 @@
     },
     {
       "name": "checkmark"
+    },
+    {
+      "name": "checkmark_2"
     },
     {
       "name": "checkmark_alt"
@@ -1149,12 +1176,6 @@
     },
     {
       "name": "cloud_upload_fill"
-    },
-    {
-      "name": "color_filter"
-    },
-    {
-      "name": "color_filter_fill"
     },
     {
       "name": "command"
@@ -1502,6 +1523,18 @@
       "name": "f_cursive_circle_fill"
     },
     {
+      "name": "face_smiling"
+    },
+    {
+      "name": "face_smiling_fill"
+    },
+    {
+      "name": "facemask"
+    },
+    {
+      "name": "facemask_fill"
+    },
+    {
       "name": "film"
     },
     {
@@ -1592,6 +1625,12 @@
       "name": "function"
     },
     {
+      "name": "funnel"
+    },
+    {
+      "name": "funnel_fill"
+    },
+    {
       "name": "fx"
     },
     {
@@ -1632,6 +1671,12 @@
     },
     {
       "name": "gift_fill"
+    },
+    {
+      "name": "giftcard"
+    },
+    {
+      "name": "giftcard_fill"
     },
     {
       "name": "globe"
@@ -2903,6 +2948,12 @@
       "name": "shift_fill"
     },
     {
+      "name": "shippingbox"
+    },
+    {
+      "name": "shippingbox_fill"
+    },
+    {
       "name": "shuffle"
     },
     {
@@ -3222,6 +3273,12 @@
     },
     {
       "name": "staroflife_fill"
+    },
+    {
+      "name": "status"
+    },
+    {
+      "name": "sticker"
     },
     {
       "name": "stop"
@@ -3594,6 +3651,12 @@
     },
     {
       "name": "viewfinder_circle_fill"
+    },
+    {
+      "name": "wallet"
+    },
+    {
+      "name": "wallet_fill"
     },
     {
       "name": "wand_rays"
