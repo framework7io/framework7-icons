@@ -1,6 +1,6 @@
 {
   "name": "framework7-icons",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Free iOS-icons font for Framework7",
   "main": "css/framework7-icons.css",
   "repository": {
@@ -28,7 +28,8 @@
   "scripts": {
     "build": "node ./build/build",
     "release": "node ./build/release",
-    "start": "http-server ./ -o -c 1 -a localhost"
+    "start": "http-server ./ -o -c 1 -a localhost",
+    "changelog": "npx conventional-changelog -p angular -i CHANGELOG.md -u -s"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.16",

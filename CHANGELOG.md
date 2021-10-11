@@ -1,3 +1,10 @@
+# [5.0.4](https://github.com/framework7io/framework7-icons/compare/v5.0.3...v5.0.4) (2021-10-11)
+
+### Bug Fixes
+
+- **svelte:** fix icon components imports ([04b5164](https://github.com/framework7io/framework7-icons/commit/04b5164c502765f5a1db1c63cbf785b04b0e2363))
+- **vue:** fix icon components imports ([f84ef80](https://github.com/framework7io/framework7-icons/commit/f84ef80dc53f6b4701817a8c67fc6f4a97cff698))
+
 ## [5.0.3](https://github.com/framework7io/framework7-icons/compare/v5.0.2...v5.0.3) (2021-07-30)
 
 - updated `videocam`, `videocam_fill`, `videocam_circle`, `videocam_circle_fill` icons
