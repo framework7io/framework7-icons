@@ -40,7 +40,7 @@ ${content}
     });
 
   const importComponents = components
-    .map(({ name }) => `import ${name} from './${name}.vue';`)
+    .map(({ name }) => `import ${name} from './vue/${name}.vue';`)
     .join('\n');
   const exportComponents = `export {${components.map(({ name }) => name).join(', ')}}`;
 
