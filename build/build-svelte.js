@@ -35,7 +35,7 @@ const buildSvelte = async () => {
     });
 
   const importComponents = components
-    .map(({ name }) => `import ${name} from './${name}.svelte';`)
+    .map(({ name }) => `import ${name} from './svelte/${name}.svelte';`)
     .join('\n');
   const exportComponents = `export {${components.map(({ name }) => name).join(', ')}}`;
 
