@@ -148,6 +148,13 @@
   <div class="center">
     <header>
       <h1>{{font_name}} v{{font_version}} Cheatsheet, <b>{{icon_count}}</b> icons:</h1>
+      <input type="text" id="searchInput" placeholder="Search icons..." style="
+        margin-top: 10px;
+        padding: 8px;
+        width: 300px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;" />
     </header>
     <div class="content">
       <div class="icons">
@@ -202,6 +209,18 @@
     for (var i = 0; i < icons.length; i++) {
       icons[i].addEventListener('click', showPreview);
     }
+  </script>
+  <script>
+    const searchInput = document.getElementById('searchInput');
+    const iconCells = document.querySelectorAll('.icon-cell');
+
+    searchInput.addEventListener('input', (e) => {
+      const searchTerm = e.target.value.toLowerCase();
+      iconCells.forEach(cell => {
+        const iconName = cell.querySelector('.icon-name').textContent.toLowerCase();
+        cell.style.display = iconName.includes(searchTerm) ? '' : 'none';
+      });
+    });
   </script>
 </body>
 
